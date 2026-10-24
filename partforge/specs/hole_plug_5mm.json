@@ -1,0 +1,19 @@
+{
+  "name": "hole_plug_5mm",
+  "title": "Заглушка отверстия 5 мм (мебельная, с грибком)",
+  "type": "hole_plug",
+  "material": "pla",
+  "infill": 0.2,
+  "layer": 0.16,
+  "nozzle": 0.4,
+  "min_wall": 1.0,
+  "price_per_kg": 1800,
+  "params": {
+    "hole_d": 5.0,
+    "clearance": 0.25,
+    "depth": 4.0,
+    "head_d": 8.0,
+    "head_h": 1.2,
+    "slot": 1.0
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "hole_plug_5mm",
+  "title": "Заглушка отверстия 5 мм (мебельная, с грибком)",
+  "type": "hole_plug",
+  "stl": "parts_out/hole_plug_5mm.stl",
+  "preview": "parts_out/hole_plug_5mm.png",
+  "readiness": {
+    "watertight": true,
+    "bodies": 1,
+    "volume_mm3": 112.0,
+    "volume_cm3": 0.112,
+    "area_mm2": 203.4,
+    "extents_mm": [
+      8.0,
+      8.0,
+      5.2
+    ],
+    "overhang_mm2": 37.2,
+    "overhang_pct": 18.3,
+    "bed_contact_mm2": 7.3,
+    "thin_spots": [],
+    "min_wall_recommended": 1.0,
+    "foil_risk": false,
+    "nozzle": 0.4
+  },
+  "estimate": {
+    "material": "pla",
+    "infill_pct": 20,
+    "layer_mm": 0.16,
+    "grams": 0.1,
+    "meters_filament_1_75": 0.05,
+    "minutes": 2,
+    "cost_rub": 0.3
+  }
+}

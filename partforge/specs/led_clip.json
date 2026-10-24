@@ -1,0 +1,23 @@
+{
+  "name": "led_clip_10mm",
+  "title": "Клипса-зажим для светодиодной ленты / полки 10 мм",
+  "type": "led_clip",
+  "material": "petg",
+  "infill": 0.3,
+  "layer": 0.2,
+  "nozzle": 0.4,
+  "min_wall": 1.2,
+  "price_per_kg": 1800,
+  "params": {
+    "strip_width": 10.0,
+    "strip_height": 4.0,
+    "wall": 1.6,
+    "base_thickness": 4.0,
+    "length": 16.0,
+    "lip": 1.2,
+    "screw_hole_d": 3.4,
+    "screw_offset": 3.0,
+    "clearance": 0.3,
+    "countersink": true
+  }
+}
