@@ -45,7 +45,7 @@ def main(argv: list[str] | None = None) -> int:
     p_list.set_defaults(func=cmd_list)
 
     p_build = sub.add_parser("build", help="собрать библиотеку в папку")
-    p_build.add_argument("--out", type=Path, default=Path("library_out"), help="папка вывода (по умолчанию library_out/)")
+    p_build.add_argument("--out", type=Path, default=Path("library"), help="папка вывода (по умолчанию library/)")
     p_build.set_defaults(func=cmd_build)
 
     p_probe = sub.add_parser("probe", help="анализ .meb/.sto файла")

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Собрать общий каталог-превью библиотеки: сетка миниатюр всех модулей.
 
-Использование: python3 tools/make_catalog_preview.py --out library_out/Каталог_модулей.jpg
+Использование: python3 tools/make_catalog_preview.py --out library/Каталог_модулей.jpg
 Требует Pillow (для JPG). Без Pillow печатает предупреждение.
 """
 
@@ -43,7 +43,7 @@ def _fit(text: str, limit: int) -> str:
 
 def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--out", type=Path, default=Path("library_out/Каталог_модулей.jpg"))
+    parser.add_argument("--out", type=Path, default=Path("library/Каталог_модулей.jpg"))
     parser.add_argument("--cell", type=int, default=320)
     args = parser.parse_args()
 
