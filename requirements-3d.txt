@@ -1,0 +1,9 @@
+# для partforge (3D-печать). PIL/Pillow нужен и для превью PRO100-библиотеки.
+numpy>=1.26
+trimesh>=4.0
+manifold3d>=2.3
+shapely>=2.0
+networkx>=3.0
+rtree>=1.1
+scipy>=1.11
+Pillow>=10.0

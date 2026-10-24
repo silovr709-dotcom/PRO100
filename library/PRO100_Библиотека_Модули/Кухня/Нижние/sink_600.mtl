@@ -1,0 +1,33 @@
+newmtl hdf_back
+Kd 0.8000 0.7800 0.7400
+Ka 0.2000 0.2000 0.2000
+Ks 0.0500 0.0500 0.0500
+Ns 10.0
+illum 2
+d 1.0
+
+newmtl ldsp_white
+Kd 0.9300 0.9300 0.9100
+Ka 0.2000 0.2000 0.2000
+Ks 0.0500 0.0500 0.0500
+Ns 10.0
+illum 2
+d 1.0
+map_Kd ldsp_white.png
+
+newmtl mdf_facade
+Kd 0.8600 0.8500 0.8200
+Ka 0.2000 0.2000 0.2000
+Ks 0.0500 0.0500 0.0500
+Ns 10.0
+illum 2
+d 1.0
+map_Kd mdf_facade.png
+
+newmtl plinth
+Kd 0.4500 0.4500 0.4600
+Ka 0.2000 0.2000 0.2000
+Ks 0.0500 0.0500 0.0500
+Ns 10.0
+illum 2
+d 1.0

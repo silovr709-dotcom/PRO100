@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+out/
+library_out/
+_tmp/
+google_drive/
+.venv/

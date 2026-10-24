@@ -1,0 +1,69 @@
+{
+  "source": "Техничка 1.08.2025.pdf (Висма Мебель), 43 стр.",
+  "extracted": "2026-10-25",
+  "units": "mm",
+  "carcass": {
+    "material": "ЛДСП 1-й категории",
+    "thickness": 16,
+    "edge": "кромка ПВХ 0.4 мм в цвет ЛДСП",
+    "back_panel": "ХДФ 3 мм белая",
+    "back_panel_mount": "в паз; паз смещён на 16 мм от заднего края корпуса",
+    "back_panel_note": "в стол под мойку, под встраиваемый духовой шкаф и бутылочницу — набивная; эти столы без полки",
+    "groove_from_back": 16,
+    "tie_bolts": 2
+  },
+  "facades": {
+    "gap": 4,
+    "gap_note": "зазоры между фасадами дверей и ящиков 4 мм; в угловых/скошенных/гнутых позициях 8 / +2 / -2 мм",
+    "thickness_default": 16,
+    "thickness_options": [16, 19, 22],
+    "hinges_per_door": 2,
+    "hinges": "Boyard с доводчиком/без; ответная планка под евровинт Ø5×13",
+    "handle": "ручка 96 мм (скоба, бабочка, рейлинг пластмассовый)",
+    "corrector_from_height": 1000,
+    "corrector_note": "для фасадов выше 1000 мм в плёнке/пластике — «корректор фасада»; при ширине двери > 600 мм — 2 комплекта"
+  },
+  "base_units": {
+    "carcass_height": 720,
+    "carcass_height_with_gola": 780,
+    "depth": 500,
+    "depth_end_radius_or_skos": 560,
+    "legs": [100, 150],
+    "worktop_overhang_front": 40,
+    "worktop_overhang_back": 60,
+    "plinth_ldsp_heights": [95, 145],
+    "plinth_offset_from_front": 18,
+    "plinth_max_length": 2720,
+    "drawer_runners": "НПВ Boyard, глубина 450 мм, дно ХДФ в паз",
+    "drawer_facade_heights": {
+      "1": [176, 536],
+      "2": [356, 356],
+      "3": [176, 176, 356],
+      "4": [176, 176, 176, 176]
+    },
+    "drawer_body_height_by_facade": {
+      "НПВ": {"180": 100, "270": 190, "360": 280},
+      "ТЧО/ТПО": {"180": 106, "270": 160, "360": 250}
+    }
+  },
+  "wall_units": {
+    "depth": 300,
+    "internal_depth": 284,
+    "depth_with_dish_dryer": 310,
+    "heights": [300, 360, 460, 600, 720, 920],
+    "lift_up_min_height": 300
+  },
+  "tall_units": {
+    "depth": 560,
+    "heights": [2000, 2120, 2320],
+    "heights_with_oven": [2020, 2140, 2340]
+  },
+  "worktop": {
+    "thickness": [26, 38],
+    "forms": ["постформинг (завал)", "кромка ПВХ «Х»", "кромка пластик «V»"],
+    "euro_cut_extra_length": 100
+  },
+  "solid_surface": {
+    "note": "compact-плита HPL 4/12 мм, стеновая панель МДФ 4/6 мм"
+  }
+}
