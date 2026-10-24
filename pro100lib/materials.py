@@ -28,6 +28,13 @@ MATERIALS: dict[str, Material] = {
     "hdf_back": Material("hdf_back", "ХДФ 3 мм (задняя стенка)", (0.80, 0.78, 0.74), None, 850),
     "plinth": Material("plinth", "Плинтус/цоколь", (0.45, 0.45, 0.46), None, 700),
     "metal": Material("metal", "Металл (ручки, опоры)", (0.55, 0.56, 0.58), None, 7850),
+    # --- материалы по техничке ВИСМА (ЛДСП 1-й категории, ХДФ белая, цоколь ЛДСП) ---
+    "visma_ldsp_body": Material("visma_ldsp_body", "ЛДСП ВИСМА 16 мм, 1 кат. (корпус)", (0.88, 0.86, 0.82), None, 700),
+    "visma_ldsp_back": Material("visma_ldsp_back", "ЛДСП 16 мм (задняя стенка виницы)", (0.86, 0.84, 0.80), None, 700),
+    "visma_hdf_back": Material("visma_hdf_back", "ХДФ 3 мм белая (задняя стенка в паз)", (0.94, 0.93, 0.90), None, 850),
+    "visma_facade": Material("visma_facade", "Фасад МДФ 16 мм в плёнке ПВХ", (0.965, 0.955, 0.925), None, 750),
+    "visma_plinth": Material("visma_plinth", "Цоколь ЛДСП 16 мм (в цвет корпуса)", (0.80, 0.79, 0.76), None, 700),
+    "visma_leg": Material("visma_leg", "Опора регулируемая ПВХ h100 (чёрная)", (0.18, 0.18, 0.19), None, 1100),
 }
 
 

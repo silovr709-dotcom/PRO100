@@ -1,0 +1,3772 @@
+{
+  "library": "PRO100_Библиотека_ВИСМА",
+  "source": {
+    "pricebook": "ВИСМА 2026 КХМ.xlsm",
+    "pricebookSubset": "data/visma-2026-prices.json",
+    "tech": "Техничка 1.08.2025.pdf (Висма Мебель), 43 стр.",
+    "generatedBy": "tools/extract_visma.py"
+  },
+  "units": "mm",
+  "up_axis": "Z",
+  "module_count": 234,
+  "excluded": 42,
+  "facade_price_per_m2": {
+    "1": 3600.0,
+    "2": 4200.0,
+    "3": 4800.0,
+    "4": 5200.0
+  },
+  "fittings": {
+    "hinge": 80.0,
+    "leg": 25.0,
+    "runner": 650.0,
+    "hanger": 220.0,
+    "handle": 100.0
+  },
+  "items": [
+    {
+      "article": "25",
+      "series": "Шкаф настенный 1-но дверный Н=600мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 250,
+        "H": 600,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/025_shkaf_nastennyy_1_no_dvernyy_n_600mm_250x600x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/025_shkaf_nastennyy_1_no_dvernyy_n_600mm_250x600x300.png",
+      "price_carcass_rub": 1900.0
+    },
+    {
+      "article": "26",
+      "series": "Шкаф настенный 1-но дверный Н=600мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 300,
+        "H": 600,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/026_shkaf_nastennyy_1_no_dvernyy_n_600mm_300x600x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/026_shkaf_nastennyy_1_no_dvernyy_n_600mm_300x600x300.png",
+      "price_carcass_rub": 1950.0
+    },
+    {
+      "article": "27",
+      "series": "Шкаф настенный 1-но дверный Н=600мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 350,
+        "H": 600,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/027_shkaf_nastennyy_1_no_dvernyy_n_600mm_350x600x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/027_shkaf_nastennyy_1_no_dvernyy_n_600mm_350x600x300.png",
+      "price_carcass_rub": 2000.0
+    },
+    {
+      "article": "28",
+      "series": "Шкаф настенный 1-но дверный Н=600мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 400,
+        "H": 600,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/028_shkaf_nastennyy_1_no_dvernyy_n_600mm_400x600x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/028_shkaf_nastennyy_1_no_dvernyy_n_600mm_400x600x300.png",
+      "price_carcass_rub": 2050.0
+    },
+    {
+      "article": "29",
+      "series": "Шкаф настенный 1-но дверный Н=600мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 450,
+        "H": 600,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/029_shkaf_nastennyy_1_no_dvernyy_n_600mm_450x600x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/029_shkaf_nastennyy_1_no_dvernyy_n_600mm_450x600x300.png",
+      "price_carcass_rub": 2100.0
+    },
+    {
+      "article": "30",
+      "series": "Шкаф настенный 1-но дверный Н=600мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 500,
+        "H": 600,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/030_shkaf_nastennyy_1_no_dvernyy_n_600mm_500x600x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/030_shkaf_nastennyy_1_no_dvernyy_n_600mm_500x600x300.png",
+      "price_carcass_rub": 2600.0
+    },
+    {
+      "article": "31",
+      "series": "Шкаф настенный 1-но дверный Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 250,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/031_shkaf_nastennyy_1_no_dvernyy_n_720mm_250x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/031_shkaf_nastennyy_1_no_dvernyy_n_720mm_250x720x300.png",
+      "price_carcass_rub": 1900.0
+    },
+    {
+      "article": "32",
+      "series": "Шкаф настенный 1-но дверный Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 300,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/032_shkaf_nastennyy_1_no_dvernyy_n_720mm_300x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/032_shkaf_nastennyy_1_no_dvernyy_n_720mm_300x720x300.png",
+      "price_carcass_rub": 2000.0
+    },
+    {
+      "article": "33",
+      "series": "Шкаф настенный 1-но дверный Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 350,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/033_shkaf_nastennyy_1_no_dvernyy_n_720mm_350x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/033_shkaf_nastennyy_1_no_dvernyy_n_720mm_350x720x300.png",
+      "price_carcass_rub": 2050.0
+    },
+    {
+      "article": "34",
+      "series": "Шкаф настенный 1-но дверный Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 400,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/034_shkaf_nastennyy_1_no_dvernyy_n_720mm_400x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/034_shkaf_nastennyy_1_no_dvernyy_n_720mm_400x720x300.png",
+      "price_carcass_rub": 2100.0
+    },
+    {
+      "article": "35",
+      "series": "Шкаф настенный 1-но дверный Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 450,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/035_shkaf_nastennyy_1_no_dvernyy_n_720mm_450x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/035_shkaf_nastennyy_1_no_dvernyy_n_720mm_450x720x300.png",
+      "price_carcass_rub": 2150.0
+    },
+    {
+      "article": "36",
+      "series": "Шкаф настенный 1-но дверный Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 500,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/036_shkaf_nastennyy_1_no_dvernyy_n_720mm_500x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/036_shkaf_nastennyy_1_no_dvernyy_n_720mm_500x720x300.png",
+      "price_carcass_rub": 2200.0
+    },
+    {
+      "article": "37",
+      "series": "Шкаф настенный 1-но дверный Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/037_shkaf_nastennyy_1_no_dvernyy_n_720mm_600x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/037_shkaf_nastennyy_1_no_dvernyy_n_720mm_600x720x300.png",
+      "price_carcass_rub": 2300.0
+    },
+    {
+      "article": "38",
+      "series": "Шкаф настенный 1-но дверный Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 250,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/038_shkaf_nastennyy_1_no_dvernyy_n_920mm_250x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/038_shkaf_nastennyy_1_no_dvernyy_n_920mm_250x920x300.png",
+      "price_carcass_rub": 1950.0
+    },
+    {
+      "article": "39",
+      "series": "Шкаф настенный 1-но дверный Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 300,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/039_shkaf_nastennyy_1_no_dvernyy_n_920mm_300x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/039_shkaf_nastennyy_1_no_dvernyy_n_920mm_300x920x300.png",
+      "price_carcass_rub": 2050.0
+    },
+    {
+      "article": "40",
+      "series": "Шкаф настенный 1-но дверный Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 350,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/040_shkaf_nastennyy_1_no_dvernyy_n_920mm_350x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/040_shkaf_nastennyy_1_no_dvernyy_n_920mm_350x920x300.png",
+      "price_carcass_rub": 2100.0
+    },
+    {
+      "article": "41",
+      "series": "Шкаф настенный 1-но дверный Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 400,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/041_shkaf_nastennyy_1_no_dvernyy_n_920mm_400x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/041_shkaf_nastennyy_1_no_dvernyy_n_920mm_400x920x300.png",
+      "price_carcass_rub": 2200.0
+    },
+    {
+      "article": "42",
+      "series": "Шкаф настенный 1-но дверный Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 450,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/042_shkaf_nastennyy_1_no_dvernyy_n_920mm_450x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/042_shkaf_nastennyy_1_no_dvernyy_n_920mm_450x920x300.png",
+      "price_carcass_rub": 2150.0
+    },
+    {
+      "article": "43",
+      "series": "Шкаф настенный 1-но дверный Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 500,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/043_shkaf_nastennyy_1_no_dvernyy_n_920mm_500x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/043_shkaf_nastennyy_1_no_dvernyy_n_920mm_500x920x300.png",
+      "price_carcass_rub": 2300.0
+    },
+    {
+      "article": "44",
+      "series": "Шкаф настенный 1-но дверный Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/044_shkaf_nastennyy_1_no_dvernyy_n_920mm_600x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/044_shkaf_nastennyy_1_no_dvernyy_n_920mm_600x920x300.png",
+      "price_carcass_rub": 2400.0
+    },
+    {
+      "article": "45",
+      "series": "Шкаф настенный 2-х дверный Н=600мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 500,
+        "H": 600,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/045_shkaf_nastennyy_2_h_dvernyy_n_600mm_500x600x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/045_shkaf_nastennyy_2_h_dvernyy_n_600mm_500x600x300.png",
+      "price_carcass_rub": 2200.0
+    },
+    {
+      "article": "46",
+      "series": "Шкаф настенный 2-х дверный Н=600мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 600,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/046_shkaf_nastennyy_2_h_dvernyy_n_600mm_600x600x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/046_shkaf_nastennyy_2_h_dvernyy_n_600mm_600x600x300.png",
+      "price_carcass_rub": 2250.0
+    },
+    {
+      "article": "47",
+      "series": "Шкаф настенный 2-х дверный Н=600мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 700,
+        "H": 600,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/047_shkaf_nastennyy_2_h_dvernyy_n_600mm_700x600x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/047_shkaf_nastennyy_2_h_dvernyy_n_600mm_700x600x300.png",
+      "price_carcass_rub": 2400.0
+    },
+    {
+      "article": "48",
+      "series": "Шкаф настенный 2-х дверный Н=600мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 800,
+        "H": 600,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/048_shkaf_nastennyy_2_h_dvernyy_n_600mm_800x600x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/048_shkaf_nastennyy_2_h_dvernyy_n_600mm_800x600x300.png",
+      "price_carcass_rub": 2450.0
+    },
+    {
+      "article": "49",
+      "series": "Шкаф настенный 2-х дверный Н=600мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 900,
+        "H": 600,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/049_shkaf_nastennyy_2_h_dvernyy_n_600mm_900x600x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/049_shkaf_nastennyy_2_h_dvernyy_n_600mm_900x600x300.png",
+      "price_carcass_rub": 2550.0
+    },
+    {
+      "article": "50",
+      "series": "Шкаф настенный 2-х дверный Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 500,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/050_shkaf_nastennyy_2_h_dvernyy_n_720mm_500x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/050_shkaf_nastennyy_2_h_dvernyy_n_720mm_500x720x300.png",
+      "price_carcass_rub": 2250.0
+    },
+    {
+      "article": "51",
+      "series": "Шкаф настенный 2-х дверный Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/051_shkaf_nastennyy_2_h_dvernyy_n_720mm_600x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/051_shkaf_nastennyy_2_h_dvernyy_n_720mm_600x720x300.png",
+      "price_carcass_rub": 2350.0
+    },
+    {
+      "article": "52",
+      "series": "Шкаф настенный 2-х дверный Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 700,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/052_shkaf_nastennyy_2_h_dvernyy_n_720mm_700x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/052_shkaf_nastennyy_2_h_dvernyy_n_720mm_700x720x300.png",
+      "price_carcass_rub": 2450.0
+    },
+    {
+      "article": "53",
+      "series": "Шкаф настенный 2-х дверный Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 800,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/053_shkaf_nastennyy_2_h_dvernyy_n_720mm_800x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/053_shkaf_nastennyy_2_h_dvernyy_n_720mm_800x720x300.png",
+      "price_carcass_rub": 2650.0
+    },
+    {
+      "article": "54",
+      "series": "Шкаф настенный 2-х дверный Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 900,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/054_shkaf_nastennyy_2_h_dvernyy_n_720mm_900x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/054_shkaf_nastennyy_2_h_dvernyy_n_720mm_900x720x300.png",
+      "price_carcass_rub": 2700.0
+    },
+    {
+      "article": "55",
+      "series": "Шкаф настенный 2-х дверный Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 500,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/055_shkaf_nastennyy_2_h_dvernyy_n_920mm_500x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/055_shkaf_nastennyy_2_h_dvernyy_n_920mm_500x920x300.png",
+      "price_carcass_rub": 2650.0
+    },
+    {
+      "article": "56",
+      "series": "Шкаф настенный 2-х дверный Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/056_shkaf_nastennyy_2_h_dvernyy_n_920mm_600x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/056_shkaf_nastennyy_2_h_dvernyy_n_920mm_600x920x300.png",
+      "price_carcass_rub": 2700.0
+    },
+    {
+      "article": "57",
+      "series": "Шкаф настенный 2-х дверный Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 700,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/057_shkaf_nastennyy_2_h_dvernyy_n_920mm_700x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/057_shkaf_nastennyy_2_h_dvernyy_n_920mm_700x920x300.png",
+      "price_carcass_rub": 2800.0
+    },
+    {
+      "article": "58",
+      "series": "Шкаф настенный 2-х дверный Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 800,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/058_shkaf_nastennyy_2_h_dvernyy_n_920mm_800x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/058_shkaf_nastennyy_2_h_dvernyy_n_920mm_800x920x300.png",
+      "price_carcass_rub": 2950.0
+    },
+    {
+      "article": "59",
+      "series": "Шкаф настенный 2-х дверный Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 900,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/059_shkaf_nastennyy_2_h_dvernyy_n_920mm_900x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/059_shkaf_nastennyy_2_h_dvernyy_n_920mm_900x920x300.png",
+      "price_carcass_rub": 3050.0
+    },
+    {
+      "article": "60",
+      "series": "Шкаф настенный 1-но дверный с открытой нишей Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 300,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/060_shkaf_nastennyy_1_no_dvernyy_s_otkrytoy_nishey_n_300x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/060_shkaf_nastennyy_1_no_dvernyy_s_otkrytoy_nishey_n_300x720x300.png",
+      "price_carcass_rub": 2000.0
+    },
+    {
+      "article": "61",
+      "series": "Шкаф настенный 1-но дверный с открытой нишей Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 350,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/061_shkaf_nastennyy_1_no_dvernyy_s_otkrytoy_nishey_n_350x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/061_shkaf_nastennyy_1_no_dvernyy_s_otkrytoy_nishey_n_350x720x300.png",
+      "price_carcass_rub": 2150.0
+    },
+    {
+      "article": "62",
+      "series": "Шкаф настенный 1-но дверный с открытой нишей Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 400,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/062_shkaf_nastennyy_1_no_dvernyy_s_otkrytoy_nishey_n_400x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/062_shkaf_nastennyy_1_no_dvernyy_s_otkrytoy_nishey_n_400x720x300.png",
+      "price_carcass_rub": 2300.0
+    },
+    {
+      "article": "63",
+      "series": "Шкаф настенный 1-но дверный с открытой нишей Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 450,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/063_shkaf_nastennyy_1_no_dvernyy_s_otkrytoy_nishey_n_450x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/063_shkaf_nastennyy_1_no_dvernyy_s_otkrytoy_nishey_n_450x720x300.png",
+      "price_carcass_rub": 2350.0
+    },
+    {
+      "article": "64",
+      "series": "Шкаф настенный 1-но дверный с открытой нишей Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 500,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/064_shkaf_nastennyy_1_no_dvernyy_s_otkrytoy_nishey_n_500x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/064_shkaf_nastennyy_1_no_dvernyy_s_otkrytoy_nishey_n_500x720x300.png",
+      "price_carcass_rub": 2550.0
+    },
+    {
+      "article": "65",
+      "series": "Шкаф настенный 1-но дверный с открытой нишей Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/065_shkaf_nastennyy_1_no_dvernyy_s_otkrytoy_nishey_n_600x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/065_shkaf_nastennyy_1_no_dvernyy_s_otkrytoy_nishey_n_600x720x300.png",
+      "price_carcass_rub": 2650.0
+    },
+    {
+      "article": "66",
+      "series": "Шкаф настенный 1-но дверный с открытой нишей Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 300,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/066_shkaf_nastennyy_1_no_dvernyy_s_otkrytoy_nishey_n_300x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/066_shkaf_nastennyy_1_no_dvernyy_s_otkrytoy_nishey_n_300x920x300.png",
+      "price_carcass_rub": 2150.0
+    },
+    {
+      "article": "67",
+      "series": "Шкаф настенный 1-но дверный с открытой нишей Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 350,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/067_shkaf_nastennyy_1_no_dvernyy_s_otkrytoy_nishey_n_350x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/067_shkaf_nastennyy_1_no_dvernyy_s_otkrytoy_nishey_n_350x920x300.png",
+      "price_carcass_rub": 2250.0
+    },
+    {
+      "article": "68",
+      "series": "Шкаф настенный 1-но дверный с открытой нишей Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 400,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/068_shkaf_nastennyy_1_no_dvernyy_s_otkrytoy_nishey_n_400x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/068_shkaf_nastennyy_1_no_dvernyy_s_otkrytoy_nishey_n_400x920x300.png",
+      "price_carcass_rub": 2350.0
+    },
+    {
+      "article": "69",
+      "series": "Шкаф настенный 1-но дверный с открытой нишей Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 450,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/069_shkaf_nastennyy_1_no_dvernyy_s_otkrytoy_nishey_n_450x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/069_shkaf_nastennyy_1_no_dvernyy_s_otkrytoy_nishey_n_450x920x300.png",
+      "price_carcass_rub": 2500.0
+    },
+    {
+      "article": "70",
+      "series": "Шкаф настенный 1-но дверный с открытой нишей Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 500,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/070_shkaf_nastennyy_1_no_dvernyy_s_otkrytoy_nishey_n_500x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/070_shkaf_nastennyy_1_no_dvernyy_s_otkrytoy_nishey_n_500x920x300.png",
+      "price_carcass_rub": 2650.0
+    },
+    {
+      "article": "71",
+      "series": "Шкаф настенный 1-но дверный с открытой нишей Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/071_shkaf_nastennyy_1_no_dvernyy_s_otkrytoy_nishey_n_600x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/071_shkaf_nastennyy_1_no_dvernyy_s_otkrytoy_nishey_n_600x920x300.png",
+      "price_carcass_rub": 2750.0
+    },
+    {
+      "article": "72",
+      "series": "Шкаф настенный 2-х дверный с открытой нишей Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/072_shkaf_nastennyy_2_h_dvernyy_s_otkrytoy_nishey_n__600x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/072_shkaf_nastennyy_2_h_dvernyy_s_otkrytoy_nishey_n__600x720x300.png",
+      "price_carcass_rub": 2700.0
+    },
+    {
+      "article": "73",
+      "series": "Шкаф настенный 2-х дверный с открытой нишей Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 700,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/073_shkaf_nastennyy_2_h_dvernyy_s_otkrytoy_nishey_n__700x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/073_shkaf_nastennyy_2_h_dvernyy_s_otkrytoy_nishey_n__700x720x300.png",
+      "price_carcass_rub": 2800.0
+    },
+    {
+      "article": "74",
+      "series": "Шкаф настенный 2-х дверный с открытой нишей Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 800,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/074_shkaf_nastennyy_2_h_dvernyy_s_otkrytoy_nishey_n__800x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/074_shkaf_nastennyy_2_h_dvernyy_s_otkrytoy_nishey_n__800x720x300.png",
+      "price_carcass_rub": 2950.0
+    },
+    {
+      "article": "75",
+      "series": "Шкаф настенный 2-х дверный с открытой нишей Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 900,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/075_shkaf_nastennyy_2_h_dvernyy_s_otkrytoy_nishey_n__900x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/075_shkaf_nastennyy_2_h_dvernyy_s_otkrytoy_nishey_n__900x720x300.png",
+      "price_carcass_rub": 3150.0
+    },
+    {
+      "article": "76",
+      "series": "Шкаф настенный 2-х дверный с открытой нишей Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/076_shkaf_nastennyy_2_h_dvernyy_s_otkrytoy_nishey_n__600x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/076_shkaf_nastennyy_2_h_dvernyy_s_otkrytoy_nishey_n__600x920x300.png",
+      "price_carcass_rub": 2800.0
+    },
+    {
+      "article": "77",
+      "series": "Шкаф настенный 2-х дверный с открытой нишей Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 700,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/077_shkaf_nastennyy_2_h_dvernyy_s_otkrytoy_nishey_n__700x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/077_shkaf_nastennyy_2_h_dvernyy_s_otkrytoy_nishey_n__700x920x300.png",
+      "price_carcass_rub": 2850.0
+    },
+    {
+      "article": "78",
+      "series": "Шкаф настенный 2-х дверный с открытой нишей Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 800,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/078_shkaf_nastennyy_2_h_dvernyy_s_otkrytoy_nishey_n__800x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/078_shkaf_nastennyy_2_h_dvernyy_s_otkrytoy_nishey_n__800x920x300.png",
+      "price_carcass_rub": 3050.0
+    },
+    {
+      "article": "79",
+      "series": "Шкаф настенный 2-х дверный с открытой нишей Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 900,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/079_shkaf_nastennyy_2_h_dvernyy_s_otkrytoy_nishey_n__900x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/079_shkaf_nastennyy_2_h_dvernyy_s_otkrytoy_nishey_n__900x920x300.png",
+      "price_carcass_rub": 3150.0
+    },
+    {
+      "article": "80",
+      "series": "Шкаф настенный 2-х дверный Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 500,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/080_shkaf_nastennyy_2_h_dvernyy_n_720mm_500x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/080_shkaf_nastennyy_2_h_dvernyy_n_720mm_500x720x300.png",
+      "price_carcass_rub": 2500.0
+    },
+    {
+      "article": "81",
+      "series": "Шкаф настенный 2-х дверный Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/081_shkaf_nastennyy_2_h_dvernyy_n_720mm_600x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/081_shkaf_nastennyy_2_h_dvernyy_n_720mm_600x720x300.png",
+      "price_carcass_rub": 2550.0
+    },
+    {
+      "article": "82",
+      "series": "Шкаф настенный 2-х дверный Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 700,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/082_shkaf_nastennyy_2_h_dvernyy_n_720mm_700x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/082_shkaf_nastennyy_2_h_dvernyy_n_720mm_700x720x300.png",
+      "price_carcass_rub": 2600.0
+    },
+    {
+      "article": "83",
+      "series": "Шкаф настенный 2-х дверный Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 800,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/083_shkaf_nastennyy_2_h_dvernyy_n_720mm_800x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/083_shkaf_nastennyy_2_h_dvernyy_n_720mm_800x720x300.png",
+      "price_carcass_rub": 2650.0
+    },
+    {
+      "article": "84",
+      "series": "Шкаф настенный 2-х дверный Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 900,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/084_shkaf_nastennyy_2_h_dvernyy_n_720mm_900x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/084_shkaf_nastennyy_2_h_dvernyy_n_720mm_900x720x300.png",
+      "price_carcass_rub": 2700.0
+    },
+    {
+      "article": "85",
+      "series": "Шкаф настенный 2-х дверный Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 1000,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/085_shkaf_nastennyy_2_h_dvernyy_n_720mm_1000x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/085_shkaf_nastennyy_2_h_dvernyy_n_720mm_1000x720x300.png",
+      "price_carcass_rub": 2750.0
+    },
+    {
+      "article": "86",
+      "series": "Шкаф настенный 2-х дверный Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 500,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/086_shkaf_nastennyy_2_h_dvernyy_n_920mm_500x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/086_shkaf_nastennyy_2_h_dvernyy_n_920mm_500x920x300.png",
+      "price_carcass_rub": 2550.0
+    },
+    {
+      "article": "87",
+      "series": "Шкаф настенный 2-х дверный Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/087_shkaf_nastennyy_2_h_dvernyy_n_920mm_600x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/087_shkaf_nastennyy_2_h_dvernyy_n_920mm_600x920x300.png",
+      "price_carcass_rub": 2600.0
+    },
+    {
+      "article": "88",
+      "series": "Шкаф настенный 2-х дверный Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 700,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/088_shkaf_nastennyy_2_h_dvernyy_n_920mm_700x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/088_shkaf_nastennyy_2_h_dvernyy_n_920mm_700x920x300.png",
+      "price_carcass_rub": 2750.0
+    },
+    {
+      "article": "89",
+      "series": "Шкаф настенный 2-х дверный Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 800,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/089_shkaf_nastennyy_2_h_dvernyy_n_920mm_800x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/089_shkaf_nastennyy_2_h_dvernyy_n_920mm_800x920x300.png",
+      "price_carcass_rub": 2950.0
+    },
+    {
+      "article": "90",
+      "series": "Шкаф настенный (хлебница) 1-но дверный Н=300мм",
+      "subcategory": "Хлебницы",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 500,
+        "H": 300,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Хлебницы/090_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_300mm_500x300x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Хлебницы/090_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_300mm_500x300x300.png",
+      "price_carcass_rub": 1600.0
+    },
+    {
+      "article": "91",
+      "series": "Шкаф настенный (хлебница) 1-но дверный Н=300мм",
+      "subcategory": "Хлебницы",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 300,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Хлебницы/091_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_300mm_600x300x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Хлебницы/091_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_300mm_600x300x300.png",
+      "price_carcass_rub": 1650.0
+    },
+    {
+      "article": "92",
+      "series": "Шкаф настенный (хлебница) 1-но дверный Н=300мм",
+      "subcategory": "Хлебницы",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 700,
+        "H": 300,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Хлебницы/092_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_300mm_700x300x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Хлебницы/092_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_300mm_700x300x300.png",
+      "price_carcass_rub": 1700.0
+    },
+    {
+      "article": "93",
+      "series": "Шкаф настенный (хлебница) 1-но дверный Н=300мм",
+      "subcategory": "Хлебницы",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 800,
+        "H": 300,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Хлебницы/093_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_300mm_800x300x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Хлебницы/093_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_300mm_800x300x300.png",
+      "price_carcass_rub": 1850.0
+    },
+    {
+      "article": "94",
+      "series": "Шкаф настенный (хлебница) 1-но дверный Н=300мм",
+      "subcategory": "Хлебницы",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 900,
+        "H": 300,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Хлебницы/094_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_300mm_900x300x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Хлебницы/094_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_300mm_900x300x300.png",
+      "price_carcass_rub": 2000.0
+    },
+    {
+      "article": "95",
+      "series": "Шкаф настенный (хлебница) 1-но дверный Н=300мм",
+      "subcategory": "Хлебницы",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 1000,
+        "H": 300,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Хлебницы/095_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_300mm_1000x300x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Хлебницы/095_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_300mm_1000x300x300.png",
+      "price_carcass_rub": 2100.0
+    },
+    {
+      "article": "96",
+      "series": "Шкаф настенный (хлебница) 1-но дверный Н=360мм",
+      "subcategory": "Хлебницы",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 500,
+        "H": 360,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Хлебницы/096_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_360mm_500x360x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Хлебницы/096_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_360mm_500x360x300.png",
+      "price_carcass_rub": 1750.0
+    },
+    {
+      "article": "97",
+      "series": "Шкаф настенный (хлебница) 1-но дверный Н=360мм",
+      "subcategory": "Хлебницы",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 360,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Хлебницы/097_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_360mm_600x360x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Хлебницы/097_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_360mm_600x360x300.png",
+      "price_carcass_rub": 1850.0
+    },
+    {
+      "article": "98",
+      "series": "Шкаф настенный (хлебница) 1-но дверный Н=360мм",
+      "subcategory": "Хлебницы",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 700,
+        "H": 360,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Хлебницы/098_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_360mm_700x360x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Хлебницы/098_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_360mm_700x360x300.png",
+      "price_carcass_rub": 1900.0
+    },
+    {
+      "article": "99",
+      "series": "Шкаф настенный (хлебница) 1-но дверный Н=360мм",
+      "subcategory": "Хлебницы",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 800,
+        "H": 360,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Хлебницы/099_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_360mm_800x360x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Хлебницы/099_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_360mm_800x360x300.png",
+      "price_carcass_rub": 1950.0
+    },
+    {
+      "article": "100",
+      "series": "Шкаф настенный (хлебница) 1-но дверный Н=360мм",
+      "subcategory": "Хлебницы",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 900,
+        "H": 360,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Хлебницы/100_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_360mm_900x360x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Хлебницы/100_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_360mm_900x360x300.png",
+      "price_carcass_rub": 2100.0
+    },
+    {
+      "article": "101",
+      "series": "Шкаф настенный (хлебница) 1-но дверный Н=360мм",
+      "subcategory": "Хлебницы",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 1000,
+        "H": 360,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Хлебницы/101_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_360mm_1000x360x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Хлебницы/101_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_360mm_1000x360x300.png",
+      "price_carcass_rub": 2150.0
+    },
+    {
+      "article": "102",
+      "series": "Шкаф настенный (хлебница) 1-но дверный Н=460мм",
+      "subcategory": "Хлебницы",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 500,
+        "H": 460,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Хлебницы/102_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_460mm_500x460x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Хлебницы/102_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_460mm_500x460x300.png",
+      "price_carcass_rub": 1900.0
+    },
+    {
+      "article": "103",
+      "series": "Шкаф настенный (хлебница) 1-но дверный Н=460мм",
+      "subcategory": "Хлебницы",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 460,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Хлебницы/103_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_460mm_600x460x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Хлебницы/103_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_460mm_600x460x300.png",
+      "price_carcass_rub": 1950.0
+    },
+    {
+      "article": "104",
+      "series": "Шкаф настенный (хлебница) 1-но дверный Н=460мм",
+      "subcategory": "Хлебницы",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 700,
+        "H": 460,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Хлебницы/104_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_460mm_700x460x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Хлебницы/104_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_460mm_700x460x300.png",
+      "price_carcass_rub": 2000.0
+    },
+    {
+      "article": "105",
+      "series": "Шкаф настенный (хлебница) 1-но дверный Н=460мм",
+      "subcategory": "Хлебницы",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 800,
+        "H": 460,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Хлебницы/105_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_460mm_800x460x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Хлебницы/105_shkaf_nastennyy__hlebnica__1_no_dvernyy_n_460mm_800x460x300.png",
+      "price_carcass_rub": 2050.0
+    },
+    {
+      "article": "106",
+      "series": "Шкаф настенный (антресоль) 1-но дверный Н=360мм без полки",
+      "subcategory": "Антресоли",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 500,
+        "H": 360,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Антресоли/106_shkaf_nastennyy__antresol__1_no_dvernyy_n_360mm__500x360x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Антресоли/106_shkaf_nastennyy__antresol__1_no_dvernyy_n_360mm__500x360x300.png",
+      "price_carcass_rub": 2200.0
+    },
+    {
+      "article": "107",
+      "series": "Шкаф настенный (антресоль) 1-но дверный Н=360мм без полки",
+      "subcategory": "Антресоли",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 360,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Антресоли/107_shkaf_nastennyy__antresol__1_no_dvernyy_n_360mm__600x360x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Антресоли/107_shkaf_nastennyy__antresol__1_no_dvernyy_n_360mm__600x360x300.png",
+      "price_carcass_rub": 2300.0
+    },
+    {
+      "article": "108",
+      "series": "Шкаф настенный (антресоль) 1-но дверный Н=360мм без полки",
+      "subcategory": "Антресоли",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 700,
+        "H": 360,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Антресоли/108_shkaf_nastennyy__antresol__1_no_dvernyy_n_360mm__700x360x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Антресоли/108_shkaf_nastennyy__antresol__1_no_dvernyy_n_360mm__700x360x300.png",
+      "price_carcass_rub": 2450.0
+    },
+    {
+      "article": "109",
+      "series": "Шкаф настенный (антресоль) 1-но дверный Н=360мм без полки",
+      "subcategory": "Антресоли",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 800,
+        "H": 360,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Антресоли/109_shkaf_nastennyy__antresol__1_no_dvernyy_n_360mm__800x360x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Антресоли/109_shkaf_nastennyy__antresol__1_no_dvernyy_n_360mm__800x360x300.png",
+      "price_carcass_rub": 2550.0
+    },
+    {
+      "article": "110",
+      "series": "Шкаф настенный (антресоль) 1-но дверный Н=360мм без полки",
+      "subcategory": "Антресоли",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 900,
+        "H": 360,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Антресоли/110_shkaf_nastennyy__antresol__1_no_dvernyy_n_360mm__900x360x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Антресоли/110_shkaf_nastennyy__antresol__1_no_dvernyy_n_360mm__900x360x300.png",
+      "price_carcass_rub": 2650.0
+    },
+    {
+      "article": "111",
+      "series": "Шкаф настенный (антресоль) 1-но дверный Н=360мм без полки",
+      "subcategory": "Антресоли",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 1000,
+        "H": 360,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Антресоли/111_shkaf_nastennyy__antresol__1_no_dvernyy_n_360mm__1000x360x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Антресоли/111_shkaf_nastennyy__antresol__1_no_dvernyy_n_360mm__1000x360x300.png",
+      "price_carcass_rub": 2750.0
+    },
+    {
+      "article": "112",
+      "series": "Шкаф настенный (антресоль) 1-но дверный Н=460мм 1 полка",
+      "subcategory": "Антресоли",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 500,
+        "H": 460,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Антресоли/112_shkaf_nastennyy__antresol__1_no_dvernyy_n_460mm__500x460x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Антресоли/112_shkaf_nastennyy__antresol__1_no_dvernyy_n_460mm__500x460x300.png",
+      "price_carcass_rub": 2600.0
+    },
+    {
+      "article": "113",
+      "series": "Шкаф настенный (антресоль) 1-но дверный Н=460мм 1 полка",
+      "subcategory": "Антресоли",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 460,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Антресоли/113_shkaf_nastennyy__antresol__1_no_dvernyy_n_460mm__600x460x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Антресоли/113_shkaf_nastennyy__antresol__1_no_dvernyy_n_460mm__600x460x300.png",
+      "price_carcass_rub": 2700.0
+    },
+    {
+      "article": "114",
+      "series": "Шкаф настенный (антресоль) 1-но дверный Н=460мм 1 полка",
+      "subcategory": "Антресоли",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 700,
+        "H": 460,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Антресоли/114_shkaf_nastennyy__antresol__1_no_dvernyy_n_460mm__700x460x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Антресоли/114_shkaf_nastennyy__antresol__1_no_dvernyy_n_460mm__700x460x300.png",
+      "price_carcass_rub": 2950.0
+    },
+    {
+      "article": "115",
+      "series": "Шкаф настенный (антресоль) 1-но дверный Н=460мм 1 полка",
+      "subcategory": "Антресоли",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 800,
+        "H": 460,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Антресоли/115_shkaf_nastennyy__antresol__1_no_dvernyy_n_460mm__800x460x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Антресоли/115_shkaf_nastennyy__antresol__1_no_dvernyy_n_460mm__800x460x300.png",
+      "price_carcass_rub": 3100.0
+    },
+    {
+      "article": "116",
+      "series": "Шкаф настенный (полка открытая) Н=200мм",
+      "subcategory": "Открытые полки",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 500,
+        "H": 200,
+        "D": 300
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Открытые полки/116_shkaf_nastennyy__polka_otkrytaya__n_200mm_500x200x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Открытые полки/116_shkaf_nastennyy__polka_otkrytaya__n_200mm_500x200x300.png",
+      "price_carcass_rub": 1300.0
+    },
+    {
+      "article": "117",
+      "series": "Шкаф настенный (полка открытая) Н=200мм",
+      "subcategory": "Открытые полки",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 200,
+        "D": 300
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Открытые полки/117_shkaf_nastennyy__polka_otkrytaya__n_200mm_600x200x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Открытые полки/117_shkaf_nastennyy__polka_otkrytaya__n_200mm_600x200x300.png",
+      "price_carcass_rub": 1400.0
+    },
+    {
+      "article": "118",
+      "series": "Шкаф настенный (полка открытая) Н=200мм",
+      "subcategory": "Открытые полки",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 700,
+        "H": 200,
+        "D": 300
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Открытые полки/118_shkaf_nastennyy__polka_otkrytaya__n_200mm_700x200x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Открытые полки/118_shkaf_nastennyy__polka_otkrytaya__n_200mm_700x200x300.png",
+      "price_carcass_rub": 1450.0
+    },
+    {
+      "article": "119",
+      "series": "Шкаф настенный (полка открытая) Н=200мм",
+      "subcategory": "Открытые полки",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 800,
+        "H": 200,
+        "D": 300
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Открытые полки/119_shkaf_nastennyy__polka_otkrytaya__n_200mm_800x200x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Открытые полки/119_shkaf_nastennyy__polka_otkrytaya__n_200mm_800x200x300.png",
+      "price_carcass_rub": 1500.0
+    },
+    {
+      "article": "120",
+      "series": "Шкаф настенный (полка открытая) Н=200мм",
+      "subcategory": "Открытые полки",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 900,
+        "H": 200,
+        "D": 300
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Открытые полки/120_shkaf_nastennyy__polka_otkrytaya__n_200mm_900x200x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Открытые полки/120_shkaf_nastennyy__polka_otkrytaya__n_200mm_900x200x300.png",
+      "price_carcass_rub": 1550.0
+    },
+    {
+      "article": "121",
+      "series": "Шкаф настенный (полка открытая) Н=200мм",
+      "subcategory": "Открытые полки",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 1000,
+        "H": 200,
+        "D": 300
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Открытые полки/121_shkaf_nastennyy__polka_otkrytaya__n_200mm_1000x200x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Открытые полки/121_shkaf_nastennyy__polka_otkrytaya__n_200mm_1000x200x300.png",
+      "price_carcass_rub": 1600.0
+    },
+    {
+      "article": "122",
+      "series": "Шкаф настенный с открытыми полками Н=600мм",
+      "subcategory": "Открытые полки",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 150,
+        "H": 600,
+        "D": 300
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Открытые полки/122_shkaf_nastennyy_s_otkrytymi_polkami_n_600mm_150x600x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Открытые полки/122_shkaf_nastennyy_s_otkrytymi_polkami_n_600mm_150x600x300.png",
+      "price_carcass_rub": 1350.0
+    },
+    {
+      "article": "123",
+      "series": "Шкаф настенный с открытыми полками Н=600мм",
+      "subcategory": "Открытые полки",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 200,
+        "H": 600,
+        "D": 300
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Открытые полки/123_shkaf_nastennyy_s_otkrytymi_polkami_n_600mm_200x600x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Открытые полки/123_shkaf_nastennyy_s_otkrytymi_polkami_n_600mm_200x600x300.png",
+      "price_carcass_rub": 1400.0
+    },
+    {
+      "article": "124",
+      "series": "Шкаф настенный с открытыми полками Н=600мм",
+      "subcategory": "Открытые полки",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 250,
+        "H": 600,
+        "D": 300
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Открытые полки/124_shkaf_nastennyy_s_otkrytymi_polkami_n_600mm_250x600x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Открытые полки/124_shkaf_nastennyy_s_otkrytymi_polkami_n_600mm_250x600x300.png",
+      "price_carcass_rub": 1450.0
+    },
+    {
+      "article": "125",
+      "series": "Шкаф настенный с открытыми полками Н=600мм",
+      "subcategory": "Открытые полки",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 300,
+        "H": 600,
+        "D": 300
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Открытые полки/125_shkaf_nastennyy_s_otkrytymi_polkami_n_600mm_300x600x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Открытые полки/125_shkaf_nastennyy_s_otkrytymi_polkami_n_600mm_300x600x300.png",
+      "price_carcass_rub": 1500.0
+    },
+    {
+      "article": "126",
+      "series": "Шкаф настенный с открытыми полками Н=720мм",
+      "subcategory": "Открытые полки",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 150,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Открытые полки/126_shkaf_nastennyy_s_otkrytymi_polkami_n_720mm_150x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Открытые полки/126_shkaf_nastennyy_s_otkrytymi_polkami_n_720mm_150x720x300.png",
+      "price_carcass_rub": 1400.0
+    },
+    {
+      "article": "127",
+      "series": "Шкаф настенный с открытыми полками Н=720мм",
+      "subcategory": "Открытые полки",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 200,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Открытые полки/127_shkaf_nastennyy_s_otkrytymi_polkami_n_720mm_200x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Открытые полки/127_shkaf_nastennyy_s_otkrytymi_polkami_n_720mm_200x720x300.png",
+      "price_carcass_rub": 1450.0
+    },
+    {
+      "article": "128",
+      "series": "Шкаф настенный с открытыми полками Н=720мм",
+      "subcategory": "Открытые полки",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 250,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Открытые полки/128_shkaf_nastennyy_s_otkrytymi_polkami_n_720mm_250x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Открытые полки/128_shkaf_nastennyy_s_otkrytymi_polkami_n_720mm_250x720x300.png",
+      "price_carcass_rub": 1500.0
+    },
+    {
+      "article": "129",
+      "series": "Шкаф настенный с открытыми полками Н=720мм",
+      "subcategory": "Открытые полки",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 300,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Открытые полки/129_shkaf_nastennyy_s_otkrytymi_polkami_n_720mm_300x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Открытые полки/129_shkaf_nastennyy_s_otkrytymi_polkami_n_720mm_300x720x300.png",
+      "price_carcass_rub": 1550.0
+    },
+    {
+      "article": "130",
+      "series": "Шкаф настенный с открытыми полками Н=920мм",
+      "subcategory": "Открытые полки",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 150,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Открытые полки/130_shkaf_nastennyy_s_otkrytymi_polkami_n_920mm_150x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Открытые полки/130_shkaf_nastennyy_s_otkrytymi_polkami_n_920mm_150x920x300.png",
+      "price_carcass_rub": 1500.0
+    },
+    {
+      "article": "131",
+      "series": "Шкаф настенный с открытыми полками Н=920мм",
+      "subcategory": "Открытые полки",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 200,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Открытые полки/131_shkaf_nastennyy_s_otkrytymi_polkami_n_920mm_200x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Открытые полки/131_shkaf_nastennyy_s_otkrytymi_polkami_n_920mm_200x920x300.png",
+      "price_carcass_rub": 1550.0
+    },
+    {
+      "article": "132",
+      "series": "Шкаф настенный с открытыми полками Н=920мм",
+      "subcategory": "Открытые полки",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 250,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Открытые полки/132_shkaf_nastennyy_s_otkrytymi_polkami_n_920mm_250x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Открытые полки/132_shkaf_nastennyy_s_otkrytymi_polkami_n_920mm_250x920x300.png",
+      "price_carcass_rub": 1650.0
+    },
+    {
+      "article": "133",
+      "series": "Шкаф настенный с открытыми полками Н=920мм",
+      "subcategory": "Открытые полки",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 300,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Открытые полки/133_shkaf_nastennyy_s_otkrytymi_polkami_n_920mm_300x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Открытые полки/133_shkaf_nastennyy_s_otkrytymi_polkami_n_920mm_300x920x300.png",
+      "price_carcass_rub": 1700.0
+    },
+    {
+      "article": "161",
+      "series": "Шкаф настенный 1-но дверный с ящ. Н=1282мм (буфет)",
+      "subcategory": "Буфеты",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 400,
+        "H": 1282,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Буфеты/161_shkaf_nastennyy_1_no_dvernyy_s_yasch__n_1282mm___400x1282x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Буфеты/161_shkaf_nastennyy_1_no_dvernyy_s_yasch__n_1282mm___400x1282x300.png",
+      "price_carcass_rub": 3450.0
+    },
+    {
+      "article": "162",
+      "series": "Шкаф настенный 1-но дверный с ящ. Н=1282мм (буфет)",
+      "subcategory": "Буфеты",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 500,
+        "H": 1282,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Буфеты/162_shkaf_nastennyy_1_no_dvernyy_s_yasch__n_1282mm___500x1282x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Буфеты/162_shkaf_nastennyy_1_no_dvernyy_s_yasch__n_1282mm___500x1282x300.png",
+      "price_carcass_rub": 2600.0
+    },
+    {
+      "article": "163",
+      "series": "Шкаф настенный 1-но дверный с ящ. Н=1462мм (буфет)",
+      "subcategory": "Буфеты",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 400,
+        "H": 1462,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Буфеты/163_shkaf_nastennyy_1_no_dvernyy_s_yasch__n_1462mm___400x1462x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Буфеты/163_shkaf_nastennyy_1_no_dvernyy_s_yasch__n_1462mm___400x1462x300.png",
+      "price_carcass_rub": 3950.0
+    },
+    {
+      "article": "164",
+      "series": "Шкаф настенный 1-но дверный с ящ. Н=1462мм (буфет)",
+      "subcategory": "Буфеты",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 500,
+        "H": 1462,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Буфеты/164_shkaf_nastennyy_1_no_dvernyy_s_yasch__n_1462mm___500x1462x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Буфеты/164_shkaf_nastennyy_1_no_dvernyy_s_yasch__n_1462mm___500x1462x300.png",
+      "price_carcass_rub": 4050.0
+    },
+    {
+      "article": "165",
+      "series": "Шкаф настенный 2-х дверный с ящ. Н=1282мм (буфет)",
+      "subcategory": "Буфеты",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 1282,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Буфеты/165_shkaf_nastennyy_2_h_dvernyy_s_yasch__n_1282mm__b_600x1282x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Буфеты/165_shkaf_nastennyy_2_h_dvernyy_s_yasch__n_1282mm__b_600x1282x300.png",
+      "price_carcass_rub": 4200.0
+    },
+    {
+      "article": "166",
+      "series": "Шкаф настенный 2-х дверный с ящ. Н=1462мм (буфет)",
+      "subcategory": "Буфеты",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 1462,
+        "D": 300
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Буфеты/166_shkaf_nastennyy_2_h_dvernyy_s_yasch__n_1462mm__b_600x1462x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Буфеты/166_shkaf_nastennyy_2_h_dvernyy_s_yasch__n_1462mm__b_600x1462x300.png",
+      "price_carcass_rub": 4500.0
+    },
+    {
+      "article": "167",
+      "series": "Шкаф 1-но дверный с нишей Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/167_shkaf_1_no_dvernyy_s_nishey_n_720mm_600x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/167_shkaf_1_no_dvernyy_s_nishey_n_720mm_600x720x300.png",
+      "price_carcass_rub": 2050.0
+    },
+    {
+      "article": "168",
+      "series": "Шкаф 1-но дверный с нишей Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/168_shkaf_1_no_dvernyy_s_nishey_n_920mm_600x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/168_shkaf_1_no_dvernyy_s_nishey_n_920mm_600x920x300.png",
+      "price_carcass_rub": 2150.0
+    },
+    {
+      "article": "169",
+      "series": "Шкаф 1-но дверный с нишей Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/169_shkaf_1_no_dvernyy_s_nishey_n_720mm_600x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/169_shkaf_1_no_dvernyy_s_nishey_n_720mm_600x720x300.png",
+      "price_carcass_rub": 2800.0
+    },
+    {
+      "article": "170",
+      "series": "Шкаф 1-но дверный с нишей Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/170_shkaf_1_no_dvernyy_s_nishey_n_920mm_600x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/170_shkaf_1_no_dvernyy_s_nishey_n_920mm_600x920x300.png",
+      "price_carcass_rub": 3000.0
+    },
+    {
+      "article": "171",
+      "series": "Шкаф настенный проходной Н=600мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 600,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/171_shkaf_nastennyy_prohodnoy_n_600mm_600x600x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/171_shkaf_nastennyy_prohodnoy_n_600mm_600x600x300.png",
+      "price_carcass_rub": 2850.0
+    },
+    {
+      "article": "172",
+      "series": "Шкаф настенный проходной Н=600мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 700,
+        "H": 600,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/172_shkaf_nastennyy_prohodnoy_n_600mm_700x600x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/172_shkaf_nastennyy_prohodnoy_n_600mm_700x600x300.png",
+      "price_carcass_rub": 3000.0
+    },
+    {
+      "article": "173",
+      "series": "Шкаф настенный проходной Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/173_shkaf_nastennyy_prohodnoy_n_720mm_600x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/173_shkaf_nastennyy_prohodnoy_n_720mm_600x720x300.png",
+      "price_carcass_rub": 3050.0
+    },
+    {
+      "article": "174",
+      "series": "Шкаф настенный проходной Н=720мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 700,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/174_shkaf_nastennyy_prohodnoy_n_720mm_700x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/174_shkaf_nastennyy_prohodnoy_n_720mm_700x720x300.png",
+      "price_carcass_rub": 3100.0
+    },
+    {
+      "article": "175",
+      "series": "Шкаф настенный упроходной Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/175_shkaf_nastennyy_uprohodnoy_n_920mm_600x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/175_shkaf_nastennyy_uprohodnoy_n_920mm_600x920x300.png",
+      "price_carcass_rub": 3450.0
+    },
+    {
+      "article": "176",
+      "series": "Шкаф настенный упроходной Н=920мм",
+      "subcategory": "Шкафы навесные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 700,
+        "H": 920,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Шкафы навесные/176_shkaf_nastennyy_uprohodnoy_n_920mm_700x920x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Шкафы навесные/176_shkaf_nastennyy_uprohodnoy_n_920mm_700x920x300.png",
+      "price_carcass_rub": 3500.0
+    },
+    {
+      "article": "183",
+      "series": "Виница 1 (кромка 2мм, задняя стенка ЛДСП, отступ от каркаса -2мм) Каркас считается отдельно",
+      "subcategory": "Винницы",
+      "kind": "wine",
+      "sizes_mm": {
+        "W": 600,
+        "H": 308,
+        "D": 300
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Винницы/183_vinica_1__kromka_2mm__zadnyaya_stenka_ldsp__otst_600x308x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Винницы/183_vinica_1__kromka_2mm__zadnyaya_stenka_ldsp__otst_600x308x300.png",
+      "price_carcass_rub": 3600.0
+    },
+    {
+      "article": "184",
+      "series": "Виница 2 (кромка 2мм, задняя стенка ЛДСП, отступ от каркаса -2мм) Каркас считается отдельно",
+      "subcategory": "Винницы",
+      "kind": "wine",
+      "sizes_mm": {
+        "W": 600,
+        "H": 400,
+        "D": 300
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Винницы/184_vinica_2__kromka_2mm__zadnyaya_stenka_ldsp__otst_600x400x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Винницы/184_vinica_2__kromka_2mm__zadnyaya_stenka_ldsp__otst_600x400x300.png",
+      "price_carcass_rub": 6100.0
+    },
+    {
+      "article": "185",
+      "series": "Виница 3 (кромка 2мм, задняя стенка ЛДСП, отступ от каркаса -2мм) Каркас считается отдельно",
+      "subcategory": "Винницы",
+      "kind": "wine",
+      "sizes_mm": {
+        "W": 720,
+        "H": 368,
+        "D": 30016
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Винницы/185_vinica_3__kromka_2mm__zadnyaya_stenka_ldsp__otst_720x368x30016.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Винницы/185_vinica_3__kromka_2mm__zadnyaya_stenka_ldsp__otst_720x368x30016.png",
+      "price_carcass_rub": 4200.0
+    },
+    {
+      "article": "186",
+      "series": "Виница 4 (кромка 2мм, задняя стенка ЛДСП, отступ от каркаса -2мм) Каркас считается отдельно",
+      "subcategory": "Винницы",
+      "kind": "wine",
+      "sizes_mm": {
+        "W": 600,
+        "H": 400,
+        "D": 30016
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Винницы/186_vinica_4__kromka_2mm__zadnyaya_stenka_ldsp__otst_600x400x30016.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Винницы/186_vinica_4__kromka_2mm__zadnyaya_stenka_ldsp__otst_600x400x30016.png",
+      "price_carcass_rub": 5200.0
+    },
+    {
+      "article": "200",
+      "series": "Стол напольный 1-но дверный под врезную мойку",
+      "subcategory": "Столы под мойку",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 600,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы под мойку/200_stol_napolnyy_1_no_dvernyy_pod_vreznuyu_moyku_600x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы под мойку/200_stol_napolnyy_1_no_dvernyy_pod_vreznuyu_moyku_600x720x500.png",
+      "price_carcass_rub": 2700.0
+    },
+    {
+      "article": "201",
+      "series": "Стол напольный 2-х дверный под врезную мойку",
+      "subcategory": "Столы под мойку",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 600,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы под мойку/201_stol_napolnyy_2_h_dvernyy_pod_vreznuyu_moyku_600x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы под мойку/201_stol_napolnyy_2_h_dvernyy_pod_vreznuyu_moyku_600x720x500.png",
+      "price_carcass_rub": 2900.0
+    },
+    {
+      "article": "202",
+      "series": "Стол напольный 2-х дверный под врезную мойку",
+      "subcategory": "Столы под мойку",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 700,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы под мойку/202_stol_napolnyy_2_h_dvernyy_pod_vreznuyu_moyku_700x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы под мойку/202_stol_napolnyy_2_h_dvernyy_pod_vreznuyu_moyku_700x720x500.png",
+      "price_carcass_rub": 3000.0
+    },
+    {
+      "article": "203",
+      "series": "Стол напольный 2-х дверный под врезную мойку",
+      "subcategory": "Столы под мойку",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 800,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы под мойку/203_stol_napolnyy_2_h_dvernyy_pod_vreznuyu_moyku_800x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы под мойку/203_stol_napolnyy_2_h_dvernyy_pod_vreznuyu_moyku_800x720x500.png",
+      "price_carcass_rub": 3100.0
+    },
+    {
+      "article": "204",
+      "series": "Стол напольный проходной под врезную мойку",
+      "subcategory": "Столы под мойку",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 900,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы под мойку/204_stol_napolnyy_prohodnoy_pod_vreznuyu_moyku_900x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы под мойку/204_stol_napolnyy_prohodnoy_pod_vreznuyu_moyku_900x720x500.png",
+      "price_carcass_rub": 3350.0
+    },
+    {
+      "article": "205",
+      "series": "Стол напольный проходной под врезную мойку",
+      "subcategory": "Столы под мойку",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 1000,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы под мойку/205_stol_napolnyy_prohodnoy_pod_vreznuyu_moyku_1000x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы под мойку/205_stol_napolnyy_prohodnoy_pod_vreznuyu_moyku_1000x720x500.png",
+      "price_carcass_rub": 3450.0
+    },
+    {
+      "article": "206",
+      "series": "Стол напольный проходной под врезную мойку",
+      "subcategory": "Столы под мойку",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 1100,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы под мойку/206_stol_napolnyy_prohodnoy_pod_vreznuyu_moyku_1100x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы под мойку/206_stol_napolnyy_prohodnoy_pod_vreznuyu_moyku_1100x720x500.png",
+      "price_carcass_rub": 3550.0
+    },
+    {
+      "article": "207",
+      "series": "Стол напольный проходной под врезную мойку",
+      "subcategory": "Столы под мойку",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 1200,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы под мойку/207_stol_napolnyy_prohodnoy_pod_vreznuyu_moyku_1200x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы под мойку/207_stol_napolnyy_prohodnoy_pod_vreznuyu_moyku_1200x720x500.png",
+      "price_carcass_rub": 3850.0
+    },
+    {
+      "article": "214",
+      "series": "Стол напольный 1-но дверный",
+      "subcategory": "Столы напольные",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 150,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы напольные/214_stol_napolnyy_1_no_dvernyy_150x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы напольные/214_stol_napolnyy_1_no_dvernyy_150x720x500.png",
+      "price_carcass_rub": 2300.0
+    },
+    {
+      "article": "215",
+      "series": "Стол напольный 1-но дверный",
+      "subcategory": "Столы напольные",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 200,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы напольные/215_stol_napolnyy_1_no_dvernyy_200x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы напольные/215_stol_napolnyy_1_no_dvernyy_200x720x500.png",
+      "price_carcass_rub": 2400.0
+    },
+    {
+      "article": "216",
+      "series": "Стол напольный 1-но дверный",
+      "subcategory": "Столы напольные",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 250,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы напольные/216_stol_napolnyy_1_no_dvernyy_250x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы напольные/216_stol_napolnyy_1_no_dvernyy_250x720x500.png",
+      "price_carcass_rub": 2500.0
+    },
+    {
+      "article": "217",
+      "series": "Стол напольный 1-но дверный",
+      "subcategory": "Столы напольные",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 300,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы напольные/217_stol_napolnyy_1_no_dvernyy_300x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы напольные/217_stol_napolnyy_1_no_dvernyy_300x720x500.png",
+      "price_carcass_rub": 2600.0
+    },
+    {
+      "article": "218",
+      "series": "Стол напольный 1-но дверный",
+      "subcategory": "Столы напольные",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 350,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы напольные/218_stol_napolnyy_1_no_dvernyy_350x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы напольные/218_stol_napolnyy_1_no_dvernyy_350x720x500.png",
+      "price_carcass_rub": 2700.0
+    },
+    {
+      "article": "219",
+      "series": "Стол напольный 1-но дверный",
+      "subcategory": "Столы напольные",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 400,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы напольные/219_stol_napolnyy_1_no_dvernyy_400x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы напольные/219_stol_napolnyy_1_no_dvernyy_400x720x500.png",
+      "price_carcass_rub": 2800.0
+    },
+    {
+      "article": "220",
+      "series": "Стол напольный 1-но дверный",
+      "subcategory": "Столы напольные",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 450,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы напольные/220_stol_napolnyy_1_no_dvernyy_450x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы напольные/220_stol_napolnyy_1_no_dvernyy_450x720x500.png",
+      "price_carcass_rub": 2900.0
+    },
+    {
+      "article": "221",
+      "series": "Стол напольный 1-но дверный",
+      "subcategory": "Столы напольные",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 500,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы напольные/221_stol_napolnyy_1_no_dvernyy_500x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы напольные/221_stol_napolnyy_1_no_dvernyy_500x720x500.png",
+      "price_carcass_rub": 3000.0
+    },
+    {
+      "article": "222",
+      "series": "Стол напольный 1-но дверный",
+      "subcategory": "Столы напольные",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 600,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы напольные/222_stol_napolnyy_1_no_dvernyy_600x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы напольные/222_stol_napolnyy_1_no_dvernyy_600x720x500.png",
+      "price_carcass_rub": 3100.0
+    },
+    {
+      "article": "223",
+      "series": "Стол напольный 2-х дверный",
+      "subcategory": "Столы напольные",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 500,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы напольные/223_stol_napolnyy_2_h_dvernyy_500x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы напольные/223_stol_napolnyy_2_h_dvernyy_500x720x500.png",
+      "price_carcass_rub": 3200.0
+    },
+    {
+      "article": "224",
+      "series": "Стол напольный 2-х дверный",
+      "subcategory": "Столы напольные",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 600,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы напольные/224_stol_napolnyy_2_h_dvernyy_600x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы напольные/224_stol_napolnyy_2_h_dvernyy_600x720x500.png",
+      "price_carcass_rub": 3300.0
+    },
+    {
+      "article": "225",
+      "series": "Стол напольный 2-х дверный",
+      "subcategory": "Столы напольные",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 700,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы напольные/225_stol_napolnyy_2_h_dvernyy_700x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы напольные/225_stol_napolnyy_2_h_dvernyy_700x720x500.png",
+      "price_carcass_rub": 3400.0
+    },
+    {
+      "article": "226",
+      "series": "Стол напольный 2-х дверный",
+      "subcategory": "Столы напольные",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 800,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы напольные/226_stol_napolnyy_2_h_dvernyy_800x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы напольные/226_stol_napolnyy_2_h_dvernyy_800x720x500.png",
+      "price_carcass_rub": 3500.0
+    },
+    {
+      "article": "227",
+      "series": "Стол напольный 2-х дверный",
+      "subcategory": "Столы напольные",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 900,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы напольные/227_stol_napolnyy_2_h_dvernyy_900x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы напольные/227_stol_napolnyy_2_h_dvernyy_900x720x500.png",
+      "price_carcass_rub": 3600.0
+    },
+    {
+      "article": "228",
+      "series": "Стол напольный 1-но дверный с ящиком",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 300,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 1,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/228_stol_napolnyy_1_no_dvernyy_s_yaschikom_300x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/228_stol_napolnyy_1_no_dvernyy_s_yaschikom_300x720x500.png",
+      "price_carcass_rub": 2700.0
+    },
+    {
+      "article": "229",
+      "series": "Стол напольный 1-но дверный с ящиком",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 350,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 1,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/229_stol_napolnyy_1_no_dvernyy_s_yaschikom_350x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/229_stol_napolnyy_1_no_dvernyy_s_yaschikom_350x720x500.png",
+      "price_carcass_rub": 2800.0
+    },
+    {
+      "article": "230",
+      "series": "Стол напольный 1-но дверный с ящиком",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 400,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 1,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/230_stol_napolnyy_1_no_dvernyy_s_yaschikom_400x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/230_stol_napolnyy_1_no_dvernyy_s_yaschikom_400x720x500.png",
+      "price_carcass_rub": 2900.0
+    },
+    {
+      "article": "231",
+      "series": "Стол напольный 1-но дверный с ящиком",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 450,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 1,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/231_stol_napolnyy_1_no_dvernyy_s_yaschikom_450x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/231_stol_napolnyy_1_no_dvernyy_s_yaschikom_450x720x500.png",
+      "price_carcass_rub": 3000.0
+    },
+    {
+      "article": "232",
+      "series": "Стол напольный 1-но дверный с ящиком",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 500,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 1,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/232_stol_napolnyy_1_no_dvernyy_s_yaschikom_500x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/232_stol_napolnyy_1_no_dvernyy_s_yaschikom_500x720x500.png",
+      "price_carcass_rub": 3200.0
+    },
+    {
+      "article": "233",
+      "series": "Стол напольный 1-но дверный с ящиком",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 600,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 1,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/233_stol_napolnyy_1_no_dvernyy_s_yaschikom_600x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/233_stol_napolnyy_1_no_dvernyy_s_yaschikom_600x720x500.png",
+      "price_carcass_rub": 3300.0
+    },
+    {
+      "article": "234",
+      "series": "Стол напольный 2-х дверный с ящиками",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 600,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 2,
+      "drawers": 2,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/234_stol_napolnyy_2_h_dvernyy_s_yaschikami_600x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/234_stol_napolnyy_2_h_dvernyy_s_yaschikami_600x720x500.png",
+      "price_carcass_rub": 3850.0
+    },
+    {
+      "article": "235",
+      "series": "Стол напольный 2-х дверный с ящиками",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 700,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 2,
+      "drawers": 2,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/235_stol_napolnyy_2_h_dvernyy_s_yaschikami_700x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/235_stol_napolnyy_2_h_dvernyy_s_yaschikami_700x720x500.png",
+      "price_carcass_rub": 4350.0
+    },
+    {
+      "article": "236",
+      "series": "Стол напольный 2-х дверный с ящиками",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 800,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 2,
+      "drawers": 2,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/236_stol_napolnyy_2_h_dvernyy_s_yaschikami_800x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/236_stol_napolnyy_2_h_dvernyy_s_yaschikami_800x720x500.png",
+      "price_carcass_rub": 4450.0
+    },
+    {
+      "article": "237",
+      "series": "Стол напольный 2-х дверный с ящиками",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 900,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 2,
+      "drawers": 2,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/237_stol_napolnyy_2_h_dvernyy_s_yaschikami_900x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/237_stol_napolnyy_2_h_dvernyy_s_yaschikami_900x720x500.png",
+      "price_carcass_rub": 4500.0
+    },
+    {
+      "article": "260",
+      "series": "Стол напольный 2-х дверный с ящиком",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 500,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 2,
+      "drawers": 1,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/260_stol_napolnyy_2_h_dvernyy_s_yaschikom_500x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/260_stol_napolnyy_2_h_dvernyy_s_yaschikom_500x720x500.png",
+      "price_carcass_rub": 3400.0
+    },
+    {
+      "article": "261",
+      "series": "Стол напольный 2-х дверный с ящиком",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 600,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 2,
+      "drawers": 1,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/261_stol_napolnyy_2_h_dvernyy_s_yaschikom_600x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/261_stol_napolnyy_2_h_dvernyy_s_yaschikom_600x720x500.png",
+      "price_carcass_rub": 3600.0
+    },
+    {
+      "article": "262",
+      "series": "Стол напольный 2-х дверный с ящиком",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 700,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 2,
+      "drawers": 1,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/262_stol_napolnyy_2_h_dvernyy_s_yaschikom_700x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/262_stol_napolnyy_2_h_dvernyy_s_yaschikom_700x720x500.png",
+      "price_carcass_rub": 4000.0
+    },
+    {
+      "article": "263",
+      "series": "Стол напольный 2-х дверный с ящиком",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 800,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 2,
+      "drawers": 1,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/263_stol_napolnyy_2_h_dvernyy_s_yaschikom_800x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/263_stol_napolnyy_2_h_dvernyy_s_yaschikom_800x720x500.png",
+      "price_carcass_rub": 4100.0
+    },
+    {
+      "article": "238",
+      "series": "Стол напольный с 2-мя ящиками",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 300,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 2,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/238_stol_napolnyy_s_2_mya_yaschikami_300x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/238_stol_napolnyy_s_2_mya_yaschikami_300x720x500.png",
+      "price_carcass_rub": 3200.0
+    },
+    {
+      "article": "239",
+      "series": "Стол напольный с 2-мя ящиками",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 350,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 2,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/239_stol_napolnyy_s_2_mya_yaschikami_350x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/239_stol_napolnyy_s_2_mya_yaschikami_350x720x500.png",
+      "price_carcass_rub": 3300.0
+    },
+    {
+      "article": "240",
+      "series": "Стол напольный с 2-мя ящиками",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 400,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 2,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/240_stol_napolnyy_s_2_mya_yaschikami_400x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/240_stol_napolnyy_s_2_mya_yaschikami_400x720x500.png",
+      "price_carcass_rub": 3400.0
+    },
+    {
+      "article": "241",
+      "series": "Стол напольный с 2-мя ящиками",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 450,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 2,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/241_stol_napolnyy_s_2_mya_yaschikami_450x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/241_stol_napolnyy_s_2_mya_yaschikami_450x720x500.png",
+      "price_carcass_rub": 3500.0
+    },
+    {
+      "article": "242",
+      "series": "Стол напольный с 2-мя ящиками",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 500,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 2,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/242_stol_napolnyy_s_2_mya_yaschikami_500x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/242_stol_napolnyy_s_2_mya_yaschikami_500x720x500.png",
+      "price_carcass_rub": 3600.0
+    },
+    {
+      "article": "243",
+      "series": "Стол напольный с 2-мя ящиками",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 600,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 2,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/243_stol_napolnyy_s_2_mya_yaschikami_600x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/243_stol_napolnyy_s_2_mya_yaschikami_600x720x500.png",
+      "price_carcass_rub": 3850.0
+    },
+    {
+      "article": "244",
+      "series": "Стол напольный с 2-мя ящиками",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 700,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 2,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/244_stol_napolnyy_s_2_mya_yaschikami_700x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/244_stol_napolnyy_s_2_mya_yaschikami_700x720x500.png",
+      "price_carcass_rub": 4050.0
+    },
+    {
+      "article": "245",
+      "series": "Стол напольный с 2-мя ящиками",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 800,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 2,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/245_stol_napolnyy_s_2_mya_yaschikami_800x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/245_stol_napolnyy_s_2_mya_yaschikami_800x720x500.png",
+      "price_carcass_rub": 4300.0
+    },
+    {
+      "article": "246",
+      "series": "Стол напольный с 3-мя ящиками (180+180+360)",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 300,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 3,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/246_stol_napolnyy_s_3_mya_yaschikami__180_180_360_300x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/246_stol_napolnyy_s_3_mya_yaschikami__180_180_360_300x720x500.png",
+      "price_carcass_rub": 3600.0
+    },
+    {
+      "article": "247",
+      "series": "Стол напольный с 3-мя ящиками (180+180+360)",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 350,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 3,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/247_stol_napolnyy_s_3_mya_yaschikami__180_180_360_350x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/247_stol_napolnyy_s_3_mya_yaschikami__180_180_360_350x720x500.png",
+      "price_carcass_rub": 3750.0
+    },
+    {
+      "article": "248",
+      "series": "Стол напольный с 3-мя ящиками (180+180+360)",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 400,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 3,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/248_stol_napolnyy_s_3_mya_yaschikami__180_180_360_400x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/248_stol_napolnyy_s_3_mya_yaschikami__180_180_360_400x720x500.png",
+      "price_carcass_rub": 3900.0
+    },
+    {
+      "article": "249",
+      "series": "Стол напольный с 3-мя ящиками (180+180+360)",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 450,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 3,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/249_stol_napolnyy_s_3_mya_yaschikami__180_180_360_450x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/249_stol_napolnyy_s_3_mya_yaschikami__180_180_360_450x720x500.png",
+      "price_carcass_rub": 4000.0
+    },
+    {
+      "article": "250",
+      "series": "Стол напольный с 3-мя ящиками (180+180+360)",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 500,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 3,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/250_stol_napolnyy_s_3_mya_yaschikami__180_180_360_500x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/250_stol_napolnyy_s_3_mya_yaschikami__180_180_360_500x720x500.png",
+      "price_carcass_rub": 4150.0
+    },
+    {
+      "article": "251",
+      "series": "Стол напольный с 3-мя ящиками (180+180+360)",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 600,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 3,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/251_stol_napolnyy_s_3_mya_yaschikami__180_180_360_600x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/251_stol_napolnyy_s_3_mya_yaschikami__180_180_360_600x720x500.png",
+      "price_carcass_rub": 4500.0
+    },
+    {
+      "article": "252",
+      "series": "Стол напольный с 3-мя ящиками (180+180+360)",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 700,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 3,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/252_stol_napolnyy_s_3_mya_yaschikami__180_180_360_700x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/252_stol_napolnyy_s_3_mya_yaschikami__180_180_360_700x720x500.png",
+      "price_carcass_rub": 4700.0
+    },
+    {
+      "article": "253",
+      "series": "Стол напольный с 3-мя ящиками (180+180+360)",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 800,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 3,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/253_stol_napolnyy_s_3_mya_yaschikami__180_180_360_800x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/253_stol_napolnyy_s_3_mya_yaschikami__180_180_360_800x720x500.png",
+      "price_carcass_rub": 4900.0
+    },
+    {
+      "article": "254",
+      "series": "Стол напольный с 4-мя ящиками",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 300,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 4,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/254_stol_napolnyy_s_4_mya_yaschikami_300x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/254_stol_napolnyy_s_4_mya_yaschikami_300x720x500.png",
+      "price_carcass_rub": 3850.0
+    },
+    {
+      "article": "255",
+      "series": "Стол напольный с 4-мя ящиками",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 350,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 4,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/255_stol_napolnyy_s_4_mya_yaschikami_350x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/255_stol_napolnyy_s_4_mya_yaschikami_350x720x500.png",
+      "price_carcass_rub": 3950.0
+    },
+    {
+      "article": "256",
+      "series": "Стол напольный с 4-мя ящиками",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 400,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 4,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/256_stol_napolnyy_s_4_mya_yaschikami_400x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/256_stol_napolnyy_s_4_mya_yaschikami_400x720x500.png",
+      "price_carcass_rub": 4150.0
+    },
+    {
+      "article": "257",
+      "series": "Стол напольный с 4-мя ящиками",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 450,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 4,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/257_stol_napolnyy_s_4_mya_yaschikami_450x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/257_stol_napolnyy_s_4_mya_yaschikami_450x720x500.png",
+      "price_carcass_rub": 4250.0
+    },
+    {
+      "article": "258",
+      "series": "Стол напольный с 4-мя ящиками",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 500,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 4,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/258_stol_napolnyy_s_4_mya_yaschikami_500x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/258_stol_napolnyy_s_4_mya_yaschikami_500x720x500.png",
+      "price_carcass_rub": 4400.0
+    },
+    {
+      "article": "259",
+      "series": "Стол напольный с 4-мя ящиками",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 600,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 4,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/259_stol_napolnyy_s_4_mya_yaschikami_600x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/259_stol_napolnyy_s_4_mya_yaschikami_600x720x500.png",
+      "price_carcass_rub": 4650.0
+    },
+    {
+      "article": "264",
+      "series": "Стол напольный торцевой",
+      "subcategory": "Торцевые/радиусные",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 300,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Торцевые/радиусные/264_stol_napolnyy_torcevoy_300x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Торцевые/радиусные/264_stol_napolnyy_torcevoy_300x720x500.png",
+      "price_carcass_rub": 2700.0
+    },
+    {
+      "article": "265",
+      "series": "Стол напольный торцевой",
+      "subcategory": "Торцевые/радиусные",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 400,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Торцевые/радиусные/265_stol_napolnyy_torcevoy_400x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Торцевые/радиусные/265_stol_napolnyy_torcevoy_400x720x500.png",
+      "price_carcass_rub": 2900.0
+    },
+    {
+      "article": "269",
+      "series": "Стол напольный с открытыми полками",
+      "subcategory": "Столы напольные",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 150,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы напольные/269_stol_napolnyy_s_otkrytymi_polkami_150x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы напольные/269_stol_napolnyy_s_otkrytymi_polkami_150x720x500.png",
+      "price_carcass_rub": 1750.0
+    },
+    {
+      "article": "270",
+      "series": "Стол напольный с открытыми полками",
+      "subcategory": "Столы напольные",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 200,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы напольные/270_stol_napolnyy_s_otkrytymi_polkami_200x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы напольные/270_stol_napolnyy_s_otkrytymi_polkami_200x720x500.png",
+      "price_carcass_rub": 2000.0
+    },
+    {
+      "article": "271",
+      "series": "Стол напольный с открытыми полками",
+      "subcategory": "Столы напольные",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 250,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы напольные/271_stol_napolnyy_s_otkrytymi_polkami_250x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы напольные/271_stol_napolnyy_s_otkrytymi_polkami_250x720x500.png",
+      "price_carcass_rub": 2100.0
+    },
+    {
+      "article": "272",
+      "series": "Стол напольный с открытыми полками",
+      "subcategory": "Столы напольные",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 300,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы напольные/272_stol_napolnyy_s_otkrytymi_polkami_300x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы напольные/272_stol_napolnyy_s_otkrytymi_polkami_300x720x500.png",
+      "price_carcass_rub": 2200.0
+    },
+    {
+      "article": "273",
+      "series": "Стол напольный под ДШ",
+      "subcategory": "Под духовой шкаф",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 600,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Под духовой шкаф/273_stol_napolnyy_pod_dsh_600x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Под духовой шкаф/273_stol_napolnyy_pod_dsh_600x720x500.png",
+      "price_carcass_rub": 2650.0
+    },
+    {
+      "article": "274",
+      "series": "Стол напольный с открытой нишей и ящиком",
+      "subcategory": "Столы с ящиками",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 600,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы с ящиками/274_stol_napolnyy_s_otkrytoy_nishey_i_yaschikom_600x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы с ящиками/274_stol_napolnyy_s_otkrytoy_nishey_i_yaschikom_600x720x500.png",
+      "price_carcass_rub": 3300.0
+    },
+    {
+      "article": "275",
+      "series": "Стол напольный под ДШ с 1 ящиком (высота общая 1090 мм)",
+      "subcategory": "Под духовой шкаф",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 600,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Под духовой шкаф/275_stol_napolnyy_pod_dsh_s_1_yaschikom__vysota_obsc_600x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Под духовой шкаф/275_stol_napolnyy_pod_dsh_s_1_yaschikom__vysota_obsc_600x720x500.png",
+      "price_carcass_rub": 3550.0
+    },
+    {
+      "article": "276",
+      "series": "Стол напольный под ДШ с 2-мя ящиками (высота общая 1450 мм)",
+      "subcategory": "Под духовой шкаф",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 600,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 1,
+      "drawers": 2,
+      "obj": "PRO100_Библиотека_ВИСМА/Под духовой шкаф/276_stol_napolnyy_pod_dsh_s_2_mya_yaschikami__vysota_600x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Под духовой шкаф/276_stol_napolnyy_pod_dsh_s_2_mya_yaschikami__vysota_600x720x500.png",
+      "price_carcass_rub": 4700.0
+    },
+    {
+      "article": "277",
+      "series": "Стол напольный под ДШ с 2-х дверный (высота общая 1450 мм)",
+      "subcategory": "Под духовой шкаф",
+      "kind": "base",
+      "sizes_mm": {
+        "W": 600,
+        "H": 720,
+        "D": 500
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Под духовой шкаф/277_stol_napolnyy_pod_dsh_s_2_h_dvernyy__vysota_obsc_600x720x500.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Под духовой шкаф/277_stol_napolnyy_pod_dsh_s_2_h_dvernyy__vysota_obsc_600x720x500.png",
+      "price_carcass_rub": 3500.0
+    },
+    {
+      "article": "278",
+      "series": "Пенал с полками Н=2000мм",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 400,
+        "H": 2000,
+        "D": 560
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/278_penal_s_polkami_n_2000mm_400x2000x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/278_penal_s_polkami_n_2000mm_400x2000x560.png",
+      "price_carcass_rub": 5250.0
+    },
+    {
+      "article": "279",
+      "series": "Пенал с полками Н=2000мм",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 500,
+        "H": 2000,
+        "D": 560
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/279_penal_s_polkami_n_2000mm_500x2000x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/279_penal_s_polkami_n_2000mm_500x2000x560.png",
+      "price_carcass_rub": 5750.0
+    },
+    {
+      "article": "280",
+      "series": "Пенал с полками Н=2120мм",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 400,
+        "H": 2120,
+        "D": 560
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/280_penal_s_polkami_n_2120mm_400x2120x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/280_penal_s_polkami_n_2120mm_400x2120x560.png",
+      "price_carcass_rub": 5550.0
+    },
+    {
+      "article": "281",
+      "series": "Пенал с полками Н=2120мм",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 500,
+        "H": 2120,
+        "D": 560
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/281_penal_s_polkami_n_2120mm_500x2120x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/281_penal_s_polkami_n_2120mm_500x2120x560.png",
+      "price_carcass_rub": 5800.0
+    },
+    {
+      "article": "282",
+      "series": "Пенал с полками Н=2320мм",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 400,
+        "H": 2320,
+        "D": 560
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/282_penal_s_polkami_n_2320mm_400x2320x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/282_penal_s_polkami_n_2320mm_400x2320x560.png",
+      "price_carcass_rub": 6300.0
+    },
+    {
+      "article": "283",
+      "series": "Пенал с полками Н=2320мм",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 500,
+        "H": 2320,
+        "D": 560
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/283_penal_s_polkami_n_2320mm_500x2320x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/283_penal_s_polkami_n_2320mm_500x2320x560.png",
+      "price_carcass_rub": 6800.0
+    },
+    {
+      "article": "284",
+      "series": "Пенал с 2мя ящиками,2мя дверками,под ДШ Н=2020мм",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 2020,
+        "D": 560
+      },
+      "doors": 2,
+      "drawers": 2,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/284_penal_s_2mya_yaschikami_2mya_dverkami_pod_dsh_n__600x2020x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/284_penal_s_2mya_yaschikami_2mya_dverkami_pod_dsh_n__600x2020x560.png",
+      "price_carcass_rub": 6700.0
+    },
+    {
+      "article": "285",
+      "series": "Пенал с 2мя ящиками,2мя дверками,под ДШ Н=2140мм",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 2140,
+        "D": 560
+      },
+      "doors": 2,
+      "drawers": 2,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/285_penal_s_2mya_yaschikami_2mya_dverkami_pod_dsh_n__600x2140x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/285_penal_s_2mya_yaschikami_2mya_dverkami_pod_dsh_n__600x2140x560.png",
+      "price_carcass_rub": 6700.0
+    },
+    {
+      "article": "286",
+      "series": "Пенал с 2мя ящиками,2мя дверками,под ДШ Н=2340мм",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 2340,
+        "D": 560
+      },
+      "doors": 2,
+      "drawers": 2,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/286_penal_s_2mya_yaschikami_2mya_dverkami_pod_dsh_n__600x2340x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/286_penal_s_2mya_yaschikami_2mya_dverkami_pod_dsh_n__600x2340x560.png",
+      "price_carcass_rub": 7500.0
+    },
+    {
+      "article": "287",
+      "series": "Пенал с 2мя ящиками,1ой дверкой,под ДШ Н=2020мм",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 2020,
+        "D": 560
+      },
+      "doors": 1,
+      "drawers": 2,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/287_penal_s_2mya_yaschikami_1oy_dverkoy_pod_dsh_n_20_600x2020x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/287_penal_s_2mya_yaschikami_1oy_dverkoy_pod_dsh_n_20_600x2020x560.png",
+      "price_carcass_rub": 6600.0
+    },
+    {
+      "article": "288",
+      "series": "Пенал с 2мя ящиками,1ой дверкой,под ДШ Н=2140мм",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 2140,
+        "D": 560
+      },
+      "doors": 1,
+      "drawers": 2,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/288_penal_s_2mya_yaschikami_1oy_dverkoy_pod_dsh_n_21_600x2140x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/288_penal_s_2mya_yaschikami_1oy_dverkoy_pod_dsh_n_21_600x2140x560.png",
+      "price_carcass_rub": 6800.0
+    },
+    {
+      "article": "289",
+      "series": "Пенал с 2мя ящиками,1ой дверкой,под ДШ Н=2340мм",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 2340,
+        "D": 560
+      },
+      "doors": 1,
+      "drawers": 2,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/289_penal_s_2mya_yaschikami_1oy_dverkoy_pod_dsh_n_23_600x2340x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/289_penal_s_2mya_yaschikami_1oy_dverkoy_pod_dsh_n_23_600x2340x560.png",
+      "price_carcass_rub": 7400.0
+    },
+    {
+      "article": "290",
+      "series": "Пенал под ДШ и СВЧ с 2мя ящиками Н=2140",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 2140,
+        "D": 560
+      },
+      "doors": 1,
+      "drawers": 2,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/290_penal_pod_dsh_i_svch_s_2mya_yaschikami_n_2140_600x2140x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/290_penal_pod_dsh_i_svch_s_2mya_yaschikami_n_2140_600x2140x560.png",
+      "price_carcass_rub": 6900.0
+    },
+    {
+      "article": "291",
+      "series": "Пенал под ДШ и СВЧ с 2мя ящиками Н=2340мм",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 2340,
+        "D": 560
+      },
+      "doors": 1,
+      "drawers": 2,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/291_penal_pod_dsh_i_svch_s_2mya_yaschikami_n_2340mm_600x2340x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/291_penal_pod_dsh_i_svch_s_2mya_yaschikami_n_2340mm_600x2340x560.png",
+      "price_carcass_rub": 7200.0
+    },
+    {
+      "article": null,
+      "series": "Пенал под встроенную технку и микроволновку Н=2140",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 2140,
+        "D": 560
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/None_penal_pod_vstroennuyu_tehnku_i_mikrovolnovku_n_2_600x2140x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/None_penal_pod_vstroennuyu_tehnku_i_mikrovolnovku_n_2_600x2140x560.png",
+      "price_carcass_rub": 0.0
+    },
+    {
+      "article": "292",
+      "series": "Пенал под ХК Н=2140",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 2140,
+        "D": 560
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/292_penal_pod_hk_n_2140_600x2140x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/292_penal_pod_hk_n_2140_600x2140x560.png",
+      "price_carcass_rub": 4900.0
+    },
+    {
+      "article": "293",
+      "series": "Пенал под ХК Н=2340",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 2340,
+        "D": 560
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/293_penal_pod_hk_n_2340_600x2340x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/293_penal_pod_hk_n_2340_600x2340x560.png",
+      "price_carcass_rub": 5500.0
+    },
+    {
+      "article": "294",
+      "series": "Пенал под ДШ с 1 ящиком, с 1ой дверкой Н=2140",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 2140,
+        "D": 560
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/294_penal_pod_dsh_s_1_yaschikom__s_1oy_dverkoy_n_214_600x2140x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/294_penal_pod_dsh_s_1_yaschikom__s_1oy_dverkoy_n_214_600x2140x560.png",
+      "price_carcass_rub": 6600.0
+    },
+    {
+      "article": "295",
+      "series": "Пенал под ДШ с 1 ящиком, с 1ой дверкой Н=2340",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 2340,
+        "D": 560
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/295_penal_pod_dsh_s_1_yaschikom__s_1oy_dverkoy_n_234_600x2340x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/295_penal_pod_dsh_s_1_yaschikom__s_1oy_dverkoy_n_234_600x2340x560.png",
+      "price_carcass_rub": 7300.0
+    },
+    {
+      "article": "296",
+      "series": "Пенал с 2мя дверками и нишей 350 Н=2020",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 2020,
+        "D": 560
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/296_penal_s_2mya_dverkami_i_nishey_350_n_2020_600x2020x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/296_penal_s_2mya_dverkami_i_nishey_350_n_2020_600x2020x560.png",
+      "price_carcass_rub": 6100.0
+    },
+    {
+      "article": "297",
+      "series": "Пенал с 2мя дверками и нишей 350 Н=2140",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 2140,
+        "D": 560
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/297_penal_s_2mya_dverkami_i_nishey_350_n_2140_600x2140x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/297_penal_s_2mya_dverkami_i_nishey_350_n_2140_600x2140x560.png",
+      "price_carcass_rub": 6300.0
+    },
+    {
+      "article": "298",
+      "series": "Пенал с 2мя дверками и нишей 350 Н=2340",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 2340,
+        "D": 560
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/298_penal_s_2mya_dverkami_i_nishey_350_n_2340_600x2340x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/298_penal_s_2mya_dverkami_i_nishey_350_n_2340_600x2340x560.png",
+      "price_carcass_rub": 6800.0
+    },
+    {
+      "article": "299",
+      "series": "Пенал с 2мя дверками и нишей 600 Н=2020",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 2020,
+        "D": 560
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/299_penal_s_2mya_dverkami_i_nishey_600_n_2020_600x2020x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/299_penal_s_2mya_dverkami_i_nishey_600_n_2020_600x2020x560.png",
+      "price_carcass_rub": 6100.0
+    },
+    {
+      "article": "300",
+      "series": "Пенал с 2мя дверками и нишей 600 Н=2140",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 2140,
+        "D": 560
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/300_penal_s_2mya_dverkami_i_nishey_600_n_2140_600x2140x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/300_penal_s_2mya_dverkami_i_nishey_600_n_2140_600x2140x560.png",
+      "price_carcass_rub": 6300.0
+    },
+    {
+      "article": "301",
+      "series": "Пенал с 2мя дверками и нишей 600 Н=2340",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 600,
+        "H": 2340,
+        "D": 560
+      },
+      "doors": 2,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/301_penal_s_2mya_dverkami_i_nishey_600_n_2340_600x2340x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/301_penal_s_2mya_dverkami_i_nishey_600_n_2340_600x2340x560.png",
+      "price_carcass_rub": 6700.0
+    },
+    {
+      "article": "302",
+      "series": "Пенал 4мя дверками . Н=2020",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 700,
+        "H": 2020,
+        "D": 560
+      },
+      "doors": 4,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/302_penal_4mya_dverkami___n_2020_700x2020x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/302_penal_4mya_dverkami___n_2020_700x2020x560.png",
+      "price_carcass_rub": 6900.0
+    },
+    {
+      "article": "303",
+      "series": "Пенал 4мя дверками . Н=2140",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 700,
+        "H": 2140,
+        "D": 560
+      },
+      "doors": 4,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/303_penal_4mya_dverkami___n_2140_700x2140x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/303_penal_4mya_dverkami___n_2140_700x2140x560.png",
+      "price_carcass_rub": 7000.0
+    },
+    {
+      "article": "304",
+      "series": "Пенал 4мя дверками . Н=2340",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 700,
+        "H": 2340,
+        "D": 560
+      },
+      "doors": 4,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/304_penal_4mya_dverkami___n_2340_700x2340x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/304_penal_4mya_dverkami___n_2340_700x2340x560.png",
+      "price_carcass_rub": 7700.0
+    },
+    {
+      "article": "305",
+      "series": "Пенал 4мя дверками . . Н=2020",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 800,
+        "H": 2020,
+        "D": 560
+      },
+      "doors": 4,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/305_penal_4mya_dverkami_____n_2020_800x2020x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/305_penal_4mya_dverkami_____n_2020_800x2020x560.png",
+      "price_carcass_rub": 7200.0
+    },
+    {
+      "article": "306",
+      "series": "Пенал 4мя дверками . Н=2140",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 800,
+        "H": 2140,
+        "D": 560
+      },
+      "doors": 4,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/306_penal_4mya_dverkami___n_2140_800x2140x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/306_penal_4mya_dverkami___n_2140_800x2140x560.png",
+      "price_carcass_rub": 7500.0
+    },
+    {
+      "article": "307",
+      "series": "Пенал 4мя дверками . Н=2340",
+      "subcategory": "Пеналы",
+      "kind": "tall",
+      "sizes_mm": {
+        "W": 800,
+        "H": 2340,
+        "D": 560
+      },
+      "doors": 4,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Пеналы/307_penal_4mya_dverkami___n_2340_800x2340x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Пеналы/307_penal_4mya_dverkami___n_2340_800x2340x560.png",
+      "price_carcass_rub": 7800.0
+    },
+    {
+      "article": "309",
+      "series": "Комплект под стирСМ с 2-мя дверками",
+      "subcategory": "Столы напольные",
+      "kind": "wall",
+      "sizes_mm": {
+        "W": 700,
+        "H": 720,
+        "D": 300
+      },
+      "doors": 1,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Столы напольные/309_komplekt_pod_stirsm_s_2_mya_dverkami_700x720x300.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Столы напольные/309_komplekt_pod_stirsm_s_2_mya_dverkami_700x720x300.png",
+      "price_carcass_rub": 2400.0
+    },
+    {
+      "article": "314",
+      "series": "Виница 5 (кромка 2мм, задняя стенка ЛДСП, отступ от каркаса -2мм) Каркас считается отдельно",
+      "subcategory": "Винницы",
+      "kind": "wine",
+      "sizes_mm": {
+        "W": 416,
+        "H": 600,
+        "D": 560
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Винницы/314_vinica_5__kromka_2mm__zadnyaya_stenka_ldsp__otst_416x600x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Винницы/314_vinica_5__kromka_2mm__zadnyaya_stenka_ldsp__otst_416x600x560.png",
+      "price_carcass_rub": 8100.0
+    },
+    {
+      "article": "315",
+      "series": "Виница 6 (кромка 2мм, задняя стенка ЛДСП, отступ от каркаса -2мм) Каркас считается отдельно",
+      "subcategory": "Винницы",
+      "kind": "wine",
+      "sizes_mm": {
+        "W": 308,
+        "H": 600,
+        "D": 560
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Винницы/315_vinica_6__kromka_2mm__zadnyaya_stenka_ldsp__otst_308x600x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Винницы/315_vinica_6__kromka_2mm__zadnyaya_stenka_ldsp__otst_308x600x560.png",
+      "price_carcass_rub": 5700.0
+    },
+    {
+      "article": "316",
+      "series": "Виница 7 (кромка 2мм, задняя стенка ЛДСП, отступ от каркаса -2мм) Каркас считается отдельно",
+      "subcategory": "Винницы",
+      "kind": "wine",
+      "sizes_mm": {
+        "W": 820,
+        "H": 368,
+        "D": 560
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Винницы/316_vinica_7__kromka_2mm__zadnyaya_stenka_ldsp__otst_820x368x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Винницы/316_vinica_7__kromka_2mm__zadnyaya_stenka_ldsp__otst_820x368x560.png",
+      "price_carcass_rub": 6500.0
+    },
+    {
+      "article": "317",
+      "series": "Виница 8 (кромка 2мм, задняя стенка ЛДСП, отступ от каркаса -2мм) Каркас считается отдельно",
+      "subcategory": "Винницы",
+      "kind": "wine",
+      "sizes_mm": {
+        "W": 600,
+        "H": 400,
+        "D": 560
+      },
+      "doors": 0,
+      "drawers": 0,
+      "obj": "PRO100_Библиотека_ВИСМА/Винницы/317_vinica_8__kromka_2mm__zadnyaya_stenka_ldsp__otst_600x400x560.obj",
+      "thumbnail": "PRO100_Библиотека_ВИСМА/Винницы/317_vinica_8__kromka_2mm__zadnyaya_stenka_ldsp__otst_600x400x560.png",
+      "price_carcass_rub": 6600.0
+    }
+  ]
+}

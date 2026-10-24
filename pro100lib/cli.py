@@ -28,6 +28,22 @@ def cmd_build(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_build_visma(args: argparse.Namespace) -> int:
+    from .visma_catalog import build_visma_library
+
+    summary = build_visma_library(
+        args.out,
+        Path(args.modules),
+        Path(args.prices),
+        limit=args.limit,
+    )
+    print(f"Готово: {args.out}")
+    print(f"Модулей: {summary['module_count']}, не вошло: {summary['excluded']}")
+    print(f"Индекс: {args.out / 'library.json'}")
+    print(f"Прайс-спецификация: {args.out / 'Прайс-спецификация_ВИСМА.csv'}")
+    return 0
+
+
 def cmd_probe(args: argparse.Namespace) -> int:
     from tools.meb_probe import probe, verdict  # локальный импорт: скрипт из tools/
 
@@ -47,6 +63,13 @@ def main(argv: list[str] | None = None) -> int:
     p_build = sub.add_parser("build", help="собрать библиотеку в папку")
     p_build.add_argument("--out", type=Path, default=Path("library"), help="папка вывода (по умолчанию library/)")
     p_build.set_defaults(func=cmd_build)
+
+    p_visma = sub.add_parser("build-visma", help="собрать библиотеку по техничке и прайсу ВИСМА")
+    p_visma.add_argument("--out", type=Path, default=Path("library_visma"))
+    p_visma.add_argument("--modules", default="data/visma-modules.json")
+    p_visma.add_argument("--prices", default="data/visma-2026-prices.json")
+    p_visma.add_argument("--limit", type=int, default=None, help="собрать только N модулей (для проверки)")
+    p_visma.set_defaults(func=cmd_build_visma)
 
     p_probe = sub.add_parser("probe", help="анализ .meb/.sto файла")
     p_probe.add_argument("file")
